@@ -1,0 +1,13 @@
+board car1 loc2
+board car2 loc2
+board car3 loc6
+debark car1 loc4
+debark car2 loc1
+debark car3 loc2
+sail loc1 loc2
+sail loc1 loc6
+sail loc2 loc1
+sail loc2 loc4
+sail loc4 loc2
+sail loc4 loc6
+sail loc6 loc2

@@ -1,0 +1,4 @@
+board car1 loc5
+debark car1 loc1
+sail loc4 loc5
+sail loc5 loc1

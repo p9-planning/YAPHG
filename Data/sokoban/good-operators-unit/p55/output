@@ -1,0 +1,1934 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+17
+begin_variable
+var26
+-1
+2
+Atom clear(loc_6_7)
+NegatedAtom clear(loc_6_7)
+end_variable
+begin_variable
+var5
+-1
+2
+Atom clear(loc_3_4)
+NegatedAtom clear(loc_3_4)
+end_variable
+begin_variable
+var6
+-1
+2
+Atom clear(loc_3_5)
+NegatedAtom clear(loc_3_5)
+end_variable
+begin_variable
+var11
+-1
+2
+Atom clear(loc_4_3)
+NegatedAtom clear(loc_4_3)
+end_variable
+begin_variable
+var17
+-1
+2
+Atom clear(loc_5_3)
+NegatedAtom clear(loc_5_3)
+end_variable
+begin_variable
+var14
+-1
+2
+Atom clear(loc_4_6)
+NegatedAtom clear(loc_4_6)
+end_variable
+begin_variable
+var22
+-1
+2
+Atom clear(loc_5_8)
+NegatedAtom clear(loc_5_8)
+end_variable
+begin_variable
+var25
+-1
+2
+Atom clear(loc_6_5)
+NegatedAtom clear(loc_6_5)
+end_variable
+begin_variable
+var21
+-1
+2
+Atom clear(loc_5_7)
+NegatedAtom clear(loc_5_7)
+end_variable
+begin_variable
+var20
+-1
+2
+Atom clear(loc_5_6)
+NegatedAtom clear(loc_5_6)
+end_variable
+begin_variable
+var18
+-1
+2
+Atom clear(loc_5_4)
+NegatedAtom clear(loc_5_4)
+end_variable
+begin_variable
+var13
+-1
+2
+Atom clear(loc_4_5)
+NegatedAtom clear(loc_4_5)
+end_variable
+begin_variable
+var12
+-1
+2
+Atom clear(loc_4_4)
+NegatedAtom clear(loc_4_4)
+end_variable
+begin_variable
+var19
+-1
+2
+Atom clear(loc_5_5)
+NegatedAtom clear(loc_5_5)
+end_variable
+begin_variable
+var2
+-1
+30
+Atom at-robot(loc_2_6)
+Atom at-robot(loc_2_7)
+Atom at-robot(loc_3_2)
+Atom at-robot(loc_3_4)
+Atom at-robot(loc_3_5)
+Atom at-robot(loc_3_6)
+Atom at-robot(loc_3_7)
+Atom at-robot(loc_3_8)
+Atom at-robot(loc_4_2)
+Atom at-robot(loc_4_3)
+Atom at-robot(loc_4_4)
+Atom at-robot(loc_4_5)
+Atom at-robot(loc_4_6)
+Atom at-robot(loc_4_9)
+Atom at-robot(loc_5_2)
+Atom at-robot(loc_5_3)
+Atom at-robot(loc_5_4)
+Atom at-robot(loc_5_5)
+Atom at-robot(loc_5_6)
+Atom at-robot(loc_5_7)
+Atom at-robot(loc_5_8)
+Atom at-robot(loc_5_9)
+Atom at-robot(loc_6_4)
+Atom at-robot(loc_6_5)
+Atom at-robot(loc_6_7)
+Atom at-robot(loc_6_8)
+Atom at-robot(loc_6_9)
+Atom at-robot(loc_7_5)
+Atom at-robot(loc_7_6)
+Atom at-robot(loc_7_7)
+end_variable
+begin_variable
+var0
+-1
+12
+Atom at(box1, loc_3_5)
+Atom at(box1, loc_4_3)
+Atom at(box1, loc_4_4)
+Atom at(box1, loc_4_5)
+Atom at(box1, loc_4_6)
+Atom at(box1, loc_5_3)
+Atom at(box1, loc_5_4)
+Atom at(box1, loc_5_5)
+Atom at(box1, loc_5_6)
+Atom at(box1, loc_5_7)
+Atom at(box1, loc_5_8)
+Atom at(box1, loc_6_5)
+end_variable
+begin_variable
+var1
+-1
+14
+Atom at(box2, loc_3_4)
+Atom at(box2, loc_3_5)
+Atom at(box2, loc_4_3)
+Atom at(box2, loc_4_4)
+Atom at(box2, loc_4_5)
+Atom at(box2, loc_4_6)
+Atom at(box2, loc_5_3)
+Atom at(box2, loc_5_4)
+Atom at(box2, loc_5_5)
+Atom at(box2, loc_5_6)
+Atom at(box2, loc_5_7)
+Atom at(box2, loc_5_8)
+Atom at(box2, loc_6_5)
+Atom at(box2, loc_6_7)
+end_variable
+95
+begin_mutex_group
+mutex
+fw
+2
+16 0
+1 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+3
+15 0
+16 1
+2 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+3
+15 1
+16 2
+3 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+3
+15 2
+16 3
+12 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+3
+15 3
+16 4
+11 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+3
+15 4
+16 5
+5 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+3
+15 5
+16 6
+4 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+3
+15 6
+16 7
+10 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+3
+15 7
+16 8
+13 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+3
+15 8
+16 9
+9 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+3
+15 9
+16 10
+8 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+3
+15 10
+16 11
+6 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+3
+15 11
+16 12
+7 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+16 13
+0 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+14 24
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+16 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+16 1
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+16 2
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+16 3
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+16 4
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+16 5
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+16 6
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+16 7
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+16 8
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+16 9
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+16 10
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+16 11
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+16 12
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+1 1
+14 3
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+7 1
+14 23
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+4 1
+14 15
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+6 1
+14 20
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+3 1
+14 9
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+2 1
+14 4
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+5 1
+14 12
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+8 1
+14 19
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+9 1
+14 18
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+11 1
+14 11
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+12 1
+14 10
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+10 1
+14 16
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+13 1
+14 17
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+14 3
+16 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+14 4
+15 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+14 4
+16 1
+en
+
+
+
+
+ ===== FILE TOO LARGE --> MIDDLE FILE CONTENTS OMITTED ===== 
+
+
+
+
+6 10
+14 18
+2
+0
+120
+3
+15 10
+14 21
+8 0
+0
+121
+3
+16 11
+14 21
+8 0
+end_DTG
+begin_DTG
+2
+1
+95
+2
+15 7
+14 11
+1
+96
+2
+16 8
+14 11
+2
+0
+126
+3
+15 11
+14 27
+13 0
+0
+127
+3
+16 12
+14 27
+13 0
+end_DTG
+begin_DTG
+5
+1
+110
+2
+15 8
+14 17
+1
+111
+2
+16 9
+14 17
+1
+120
+2
+15 10
+14 21
+1
+121
+2
+16 11
+14 21
+1
+128
+2
+16 13
+14 29
+4
+0
+114
+3
+15 9
+14 18
+6 0
+0
+115
+3
+16 10
+14 18
+6 0
+0
+118
+3
+15 9
+14 20
+9 0
+0
+119
+3
+16 10
+14 20
+9 0
+end_DTG
+begin_DTG
+6
+1
+85
+2
+15 4
+14 5
+1
+86
+2
+16 5
+14 5
+1
+104
+2
+15 7
+14 16
+1
+105
+2
+16 8
+14 16
+1
+118
+2
+15 9
+14 20
+1
+119
+2
+16 10
+14 20
+4
+0
+110
+3
+15 8
+14 17
+8 0
+0
+111
+3
+16 9
+14 17
+8 0
+0
+116
+3
+15 8
+14 19
+13 0
+0
+117
+3
+16 9
+14 19
+13 0
+end_DTG
+begin_DTG
+6
+1
+80
+2
+15 2
+14 3
+1
+81
+2
+16 3
+14 3
+1
+99
+2
+15 5
+14 14
+1
+100
+2
+16 6
+14 14
+1
+112
+2
+15 7
+14 18
+1
+113
+2
+16 8
+14 18
+6
+0
+101
+3
+15 6
+14 15
+13 0
+0
+102
+3
+16 7
+14 15
+13 0
+0
+108
+3
+15 6
+14 17
+4 0
+0
+109
+3
+16 7
+14 17
+4 0
+0
+122
+3
+15 6
+14 22
+12 0
+0
+123
+3
+16 7
+14 22
+12 0
+end_DTG
+begin_DTG
+4
+1
+89
+2
+15 2
+14 9
+1
+90
+2
+16 3
+14 9
+1
+124
+2
+15 7
+14 23
+1
+125
+2
+16 8
+14 23
+8
+0
+82
+3
+15 3
+14 4
+13 0
+0
+83
+3
+16 4
+14 4
+13 0
+0
+91
+3
+15 3
+14 10
+5 0
+0
+92
+3
+16 4
+14 10
+5 0
+0
+97
+3
+15 3
+14 12
+12 0
+0
+98
+3
+16 4
+14 12
+12 0
+0
+106
+3
+15 3
+14 17
+2 0
+0
+107
+3
+16 4
+14 17
+2 0
+end_DTG
+begin_DTG
+6
+1
+87
+2
+15 1
+14 8
+1
+88
+2
+16 2
+14 8
+1
+97
+2
+15 3
+14 12
+1
+98
+2
+16 4
+14 12
+1
+122
+2
+15 6
+14 22
+1
+123
+2
+16 7
+14 22
+7
+0
+80
+3
+15 2
+14 3
+10 0
+0
+81
+3
+16 3
+14 3
+10 0
+0
+89
+3
+15 2
+14 9
+11 0
+0
+90
+3
+16 3
+14 9
+11 0
+0
+93
+3
+15 2
+14 11
+3 0
+0
+94
+3
+16 3
+14 11
+3 0
+0
+103
+3
+16 3
+14 16
+1 0
+end_DTG
+begin_DTG
+8
+1
+82
+2
+15 3
+14 4
+1
+83
+2
+16 4
+14 4
+1
+101
+2
+15 6
+14 15
+1
+102
+2
+16 7
+14 15
+1
+116
+2
+15 8
+14 19
+1
+117
+2
+16 9
+14 19
+1
+126
+2
+15 11
+14 27
+1
+127
+2
+16 12
+14 27
+8
+0
+95
+3
+15 7
+14 11
+7 0
+0
+96
+3
+16 8
+14 11
+7 0
+0
+104
+3
+15 7
+14 16
+9 0
+0
+105
+3
+16 8
+14 16
+9 0
+0
+112
+3
+15 7
+14 18
+10 0
+0
+113
+3
+16 8
+14 18
+10 0
+0
+124
+3
+15 7
+14 23
+11 0
+0
+125
+3
+16 8
+14 23
+11 0
+end_DTG
+begin_DTG
+2
+1
+0
+0
+5
+1
+0
+2
+0
+2
+0
+6
+3
+0
+1
+8
+4
+0
+4
+4
+5
+1
+2 0
+10
+6
+1
+12 0
+10
+80
+2
+15 2
+10 0
+10
+81
+2
+16 3
+10 0
+5
+3
+7
+1
+1 0
+5
+8
+0
+11
+9
+1
+11 0
+11
+82
+2
+15 3
+13 0
+11
+83
+2
+16 4
+13 0
+7
+0
+10
+0
+4
+11
+1
+2 0
+4
+84
+2
+16 1
+1 0
+6
+12
+0
+12
+13
+1
+5 0
+12
+85
+2
+15 4
+9 0
+12
+86
+2
+16 5
+9 0
+3
+1
+14
+0
+5
+15
+0
+7
+16
+0
+1
+6
+17
+0
+5
+2
+18
+0
+9
+19
+1
+3 0
+9
+87
+2
+15 1
+12 0
+9
+88
+2
+16 2
+12 0
+14
+20
+0
+5
+8
+21
+0
+10
+22
+1
+12 0
+10
+89
+2
+15 2
+11 0
+10
+90
+2
+16 3
+11 0
+15
+23
+1
+4 0
+6
+3
+24
+1
+1 0
+9
+25
+1
+3 0
+11
+26
+1
+11 0
+11
+91
+2
+15 3
+5 0
+11
+92
+2
+16 4
+5 0
+16
+27
+1
+10 0
+8
+4
+28
+1
+2 0
+10
+29
+1
+12 0
+10
+93
+2
+15 2
+3 0
+10
+94
+2
+16 3
+3 0
+12
+30
+1
+5 0
+17
+31
+1
+13 0
+17
+95
+2
+15 7
+7 0
+17
+96
+2
+16 8
+7 0
+5
+5
+32
+0
+11
+33
+1
+11 0
+11
+97
+2
+15 3
+12 0
+11
+98
+2
+16 4
+12 0
+18
+34
+1
+9 0
+1
+21
+35
+0
+4
+8
+36
+0
+15
+37
+1
+4 0
+15
+99
+2
+15 5
+10 0
+15
+100
+2
+16 6
+10 0
+5
+9
+38
+1
+3 0
+14
+39
+0
+16
+40
+1
+10 0
+16
+101
+2
+15 6
+13 0
+16
+102
+2
+16 7
+13 0
+7
+10
+41
+1
+12 0
+10
+103
+2
+16 3
+1 0
+15
+42
+1
+4 0
+17
+43
+1
+13 0
+17
+104
+2
+15 7
+9 0
+17
+105
+2
+16 8
+9 0
+22
+44
+0
+10
+11
+45
+1
+11 0
+11
+106
+2
+15 3
+2 0
+11
+107
+2
+16 4
+2 0
+16
+46
+1
+10 0
+16
+108
+2
+15 6
+4 0
+16
+109
+2
+16 7
+4 0
+18
+47
+1
+9 0
+18
+110
+2
+15 8
+8 0
+18
+111
+2
+16 9
+8 0
+23
+48
+1
+7 0
+7
+12
+49
+1
+5 0
+17
+50
+1
+13 0
+17
+112
+2
+15 7
+10 0
+17
+113
+2
+16 8
+10 0
+19
+51
+1
+8 0
+19
+114
+2
+15 9
+6 0
+19
+115
+2
+16 10
+6 0
+5
+18
+52
+1
+9 0
+18
+116
+2
+15 8
+13 0
+18
+117
+2
+16 9
+13 0
+20
+53
+1
+6 0
+24
+54
+1
+0 0
+5
+19
+55
+1
+8 0
+19
+118
+2
+15 9
+9 0
+19
+119
+2
+16 10
+9 0
+21
+56
+0
+25
+57
+0
+5
+13
+58
+0
+20
+59
+1
+6 0
+20
+120
+2
+15 10
+8 0
+20
+121
+2
+16 11
+8 0
+26
+60
+0
+4
+16
+61
+1
+10 0
+16
+122
+2
+15 6
+12 0
+16
+123
+2
+16 7
+12 0
+23
+62
+1
+7 0
+5
+17
+63
+1
+13 0
+17
+124
+2
+15 7
+11 0
+17
+125
+2
+16 8
+11 0
+22
+64
+0
+27
+65
+0
+3
+19
+66
+1
+8 0
+25
+67
+0
+29
+68
+0
+3
+20
+69
+1
+6 0
+24
+70
+1
+0 0
+26
+71
+0
+2
+21
+72
+0
+25
+73
+0
+4
+23
+74
+1
+7 0
+23
+126
+2
+15 11
+13 0
+23
+127
+2
+16 12
+13 0
+28
+75
+0
+2
+27
+76
+0
+29
+77
+0
+3
+24
+78
+1
+0 0
+24
+128
+2
+16 13
+8 0
+28
+79
+0
+end_DTG
+begin_DTG
+0
+1
+2
+87
+2
+14 8
+12 0
+3
+1
+93
+2
+14 11
+3 0
+3
+89
+2
+14 9
+11 0
+6
+80
+2
+14 3
+10 0
+4
+0
+106
+2
+14 17
+2 0
+2
+97
+2
+14 12
+12 0
+4
+91
+2
+14 10
+5 0
+7
+82
+2
+14 4
+13 0
+1
+8
+85
+2
+14 5
+9 0
+1
+6
+99
+2
+14 14
+10 0
+3
+2
+122
+2
+14 22
+12 0
+5
+108
+2
+14 17
+4 0
+7
+101
+2
+14 15
+13 0
+4
+3
+124
+2
+14 23
+11 0
+6
+112
+2
+14 18
+10 0
+8
+104
+2
+14 16
+9 0
+11
+95
+2
+14 11
+7 0
+2
+7
+116
+2
+14 19
+13 0
+9
+110
+2
+14 17
+8 0
+2
+8
+118
+2
+14 20
+9 0
+10
+114
+2
+14 18
+6 0
+1
+9
+120
+2
+14 21
+8 0
+1
+7
+126
+2
+14 27
+13 0
+end_DTG
+begin_DTG
+0
+1
+0
+84
+2
+14 5
+1 0
+1
+3
+88
+2
+14 8
+12 0
+4
+0
+103
+2
+14 16
+1 0
+2
+94
+2
+14 11
+3 0
+4
+90
+2
+14 9
+11 0
+7
+81
+2
+14 3
+10 0
+4
+1
+107
+2
+14 17
+2 0
+3
+98
+2
+14 12
+12 0
+5
+92
+2
+14 10
+5 0
+8
+83
+2
+14 4
+13 0
+1
+9
+86
+2
+14 5
+9 0
+1
+7
+100
+2
+14 14
+10 0
+3
+3
+123
+2
+14 22
+12 0
+6
+109
+2
+14 17
+4 0
+8
+102
+2
+14 15
+13 0
+4
+4
+125
+2
+14 23
+11 0
+7
+113
+2
+14 18
+10 0
+9
+105
+2
+14 16
+9 0
+12
+96
+2
+14 11
+7 0
+2
+8
+117
+2
+14 19
+13 0
+10
+111
+2
+14 17
+8 0
+2
+9
+119
+2
+14 20
+9 0
+11
+115
+2
+14 18
+6 0
+1
+10
+121
+2
+14 21
+8 0
+1
+8
+127
+2
+14 27
+13 0
+1
+10
+128
+2
+14 29
+8 0
+end_DTG
+begin_CG
+1
+14 3
+4
+16 2
+14 4
+2 1
+12 1
+4
+15 1
+16 1
+14 5
+11 2
+4
+15 1
+16 1
+14 5
+12 2
+4
+15 1
+16 1
+14 5
+10 2
+4
+15 1
+16 1
+14 5
+11 2
+4
+15 1
+16 1
+14 5
+8 2
+4
+15 1
+16 1
+14 5
+13 2
+6
+15 2
+16 3
+14 8
+9 2
+6 2
+0 1
+6
+15 3
+16 3
+14 9
+5 2
+13 2
+8 2
+6
+15 3
+16 3
+14 10
+12 2
+4 2
+13 2
+5
+15 2
+16 2
+14 8
+12 2
+13 2
+6
+15 3
+16 3
+14 10
+3 2
+11 2
+10 2
+7
+15 4
+16 4
+14 12
+11 2
+10 2
+9 2
+7 2
+16
+15 23
+16 26
+1 2
+2 3
+3 4
+12 13
+11 12
+5 4
+4 4
+10 12
+13 16
+9 10
+8 9
+6 4
+7 4
+0 1
+13
+14 23
+2 1
+3 2
+12 6
+11 6
+5 2
+4 2
+10 6
+13 8
+9 5
+8 4
+6 2
+7 2
+15
+14 26
+1 2
+2 2
+3 2
+12 7
+11 6
+5 2
+4 2
+10 6
+13 8
+9 5
+8 5
+6 2
+7 2
+0 1
+end_CG

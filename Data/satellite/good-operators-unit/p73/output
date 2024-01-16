@@ -1,0 +1,1599 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+62
+begin_variable
+var39
+-1
+8
+Atom pointing(sat1, dir1)
+Atom pointing(sat1, dir2)
+Atom pointing(sat1, dir3)
+Atom pointing(sat1, dir4)
+Atom pointing(sat1, dir5)
+Atom pointing(sat1, dir6)
+Atom pointing(sat1, dir7)
+Atom pointing(sat1, dir8)
+end_variable
+begin_variable
+var40
+-1
+8
+Atom pointing(sat2, dir1)
+Atom pointing(sat2, dir2)
+Atom pointing(sat2, dir3)
+Atom pointing(sat2, dir4)
+Atom pointing(sat2, dir5)
+Atom pointing(sat2, dir6)
+Atom pointing(sat2, dir7)
+Atom pointing(sat2, dir8)
+end_variable
+begin_variable
+var41
+-1
+8
+Atom pointing(sat3, dir1)
+Atom pointing(sat3, dir2)
+Atom pointing(sat3, dir3)
+Atom pointing(sat3, dir4)
+Atom pointing(sat3, dir5)
+Atom pointing(sat3, dir6)
+Atom pointing(sat3, dir7)
+Atom pointing(sat3, dir8)
+end_variable
+begin_variable
+var42
+-1
+8
+Atom pointing(sat4, dir1)
+Atom pointing(sat4, dir2)
+Atom pointing(sat4, dir3)
+Atom pointing(sat4, dir4)
+Atom pointing(sat4, dir5)
+Atom pointing(sat4, dir6)
+Atom pointing(sat4, dir7)
+Atom pointing(sat4, dir8)
+end_variable
+begin_variable
+var43
+-1
+8
+Atom pointing(sat5, dir1)
+Atom pointing(sat5, dir2)
+Atom pointing(sat5, dir3)
+Atom pointing(sat5, dir4)
+Atom pointing(sat5, dir5)
+Atom pointing(sat5, dir6)
+Atom pointing(sat5, dir7)
+Atom pointing(sat5, dir8)
+end_variable
+begin_variable
+var44
+-1
+8
+Atom pointing(sat6, dir1)
+Atom pointing(sat6, dir2)
+Atom pointing(sat6, dir3)
+Atom pointing(sat6, dir4)
+Atom pointing(sat6, dir5)
+Atom pointing(sat6, dir6)
+Atom pointing(sat6, dir7)
+Atom pointing(sat6, dir8)
+end_variable
+begin_variable
+var45
+-1
+8
+Atom pointing(sat7, dir1)
+Atom pointing(sat7, dir2)
+Atom pointing(sat7, dir3)
+Atom pointing(sat7, dir4)
+Atom pointing(sat7, dir5)
+Atom pointing(sat7, dir6)
+Atom pointing(sat7, dir7)
+Atom pointing(sat7, dir8)
+end_variable
+begin_variable
+var46
+-1
+8
+Atom pointing(sat8, dir1)
+Atom pointing(sat8, dir2)
+Atom pointing(sat8, dir3)
+Atom pointing(sat8, dir4)
+Atom pointing(sat8, dir5)
+Atom pointing(sat8, dir6)
+Atom pointing(sat8, dir7)
+Atom pointing(sat8, dir8)
+end_variable
+begin_variable
+var62
+-1
+2
+Atom power_on(ins2)
+NegatedAtom power_on(ins2)
+end_variable
+begin_variable
+var69
+-1
+2
+Atom power_on(ins9)
+NegatedAtom power_on(ins9)
+end_variable
+begin_variable
+var47
+-1
+2
+Atom power_avail(sat1)
+NegatedAtom power_avail(sat1)
+end_variable
+begin_variable
+var14
+-1
+2
+Atom calibrated(ins9)
+NegatedAtom calibrated(ins9)
+end_variable
+begin_variable
+var7
+-1
+2
+Atom calibrated(ins2)
+NegatedAtom calibrated(ins2)
+end_variable
+begin_variable
+var56
+-1
+2
+Atom power_on(ins10)
+NegatedAtom power_on(ins10)
+end_variable
+begin_variable
+var58
+-1
+2
+Atom power_on(ins12)
+NegatedAtom power_on(ins12)
+end_variable
+begin_variable
+var65
+-1
+2
+Atom power_on(ins5)
+NegatedAtom power_on(ins5)
+end_variable
+begin_variable
+var48
+-1
+2
+Atom power_avail(sat2)
+NegatedAtom power_avail(sat2)
+end_variable
+begin_variable
+var10
+-1
+2
+Atom calibrated(ins5)
+NegatedAtom calibrated(ins5)
+end_variable
+begin_variable
+var3
+-1
+2
+Atom calibrated(ins12)
+NegatedAtom calibrated(ins12)
+end_variable
+begin_variable
+var1
+-1
+2
+Atom calibrated(ins10)
+NegatedAtom calibrated(ins10)
+end_variable
+begin_variable
+var59
+-1
+2
+Atom power_on(ins13)
+NegatedAtom power_on(ins13)
+end_variable
+begin_variable
+var67
+-1
+2
+Atom power_on(ins7)
+NegatedAtom power_on(ins7)
+end_variable
+begin_variable
+var49
+-1
+2
+Atom power_avail(sat3)
+NegatedAtom power_avail(sat3)
+end_variable
+begin_variable
+var12
+-1
+2
+Atom calibrated(ins7)
+NegatedAtom calibrated(ins7)
+end_variable
+begin_variable
+var4
+-1
+2
+Atom calibrated(ins13)
+NegatedAtom calibrated(ins13)
+end_variable
+begin_variable
+var50
+-1
+2
+Atom power_avail(sat4)
+NegatedAtom power_avail(sat4)
+end_variable
+begin_variable
+var63
+-1
+2
+Atom power_on(ins3)
+NegatedAtom power_on(ins3)
+end_variable
+begin_variable
+var8
+-1
+2
+Atom calibrated(ins3)
+NegatedAtom calibrated(ins3)
+end_variable
+begin_variable
+var51
+-1
+2
+Atom power_avail(sat5)
+NegatedAtom power_avail(sat5)
+end_variable
+begin_variable
+var68
+-1
+2
+Atom power_on(ins8)
+NegatedAtom power_on(ins8)
+end_variable
+begin_variable
+var13
+-1
+2
+Atom calibrated(ins8)
+NegatedAtom calibrated(ins8)
+end_variable
+begin_variable
+var55
+-1
+2
+Atom power_on(ins1)
+NegatedAtom power_on(ins1)
+end_variable
+begin_variable
+var57
+-1
+2
+Atom power_on(ins11)
+NegatedAtom power_on(ins11)
+end_variable
+begin_variable
+var60
+-1
+2
+Atom power_on(ins14)
+NegatedAtom power_on(ins14)
+end_variable
+begin_variable
+var52
+-1
+2
+Atom power_avail(sat6)
+NegatedAtom power_avail(sat6)
+end_variable
+begin_variable
+var5
+-1
+2
+Atom calibrated(ins14)
+NegatedAtom calibrated(ins14)
+end_variable
+begin_variable
+var2
+-1
+2
+Atom calibrated(ins11)
+NegatedAtom calibrated(ins11)
+end_variable
+begin_variable
+var0
+-1
+2
+Atom calibrated(ins1)
+NegatedAtom calibrated(ins1)
+end_variable
+begin_variable
+var34
+-1
+2
+Atom have_image(dir7, mod2)
+NegatedAtom have_image(dir7, mod2)
+end_variable
+begin_variable
+var31
+-1
+2
+Atom have_image(dir6, mod2)
+NegatedAtom have_image(dir6, mod2)
+end_variable
+begin_variable
+var28
+-1
+2
+Atom have_image(dir5, mod2)
+NegatedAtom have_image(dir5, mod2)
+end_variable
+begin_variable
+var25
+-1
+2
+Atom have_image(dir4, mod2)
+NegatedAtom have_image(dir4, mod2)
+end_variable
+beg
+
+
+
+
+ ===== FILE TOO LARGE --> MIDDLE FILE CONTENTS OMITTED ===== 
+
+
+
+
+1 0
+0
+173
+3
+36 0
+5 7
+32 0
+0
+174
+3
+35 0
+5 7
+33 0
+0
+180
+3
+45 0
+6 7
+44 0
+0
+191
+3
+49 0
+7 7
+47 0
+end_DTG
+begin_DTG
+0
+12
+0
+69
+3
+12 0
+0 6
+8 0
+0
+72
+3
+11 0
+0 6
+9 0
+0
+91
+3
+19 0
+1 6
+13 0
+0
+94
+3
+17 0
+1 6
+15 0
+0
+112
+3
+23 0
+2 6
+21 0
+0
+119
+3
+27 0
+3 6
+26 0
+0
+134
+3
+30 0
+4 6
+29 0
+0
+165
+3
+37 0
+5 6
+31 0
+0
+167
+3
+36 0
+5 6
+32 0
+0
+169
+3
+35 0
+5 6
+33 0
+0
+179
+3
+45 0
+6 6
+44 0
+0
+189
+3
+49 0
+7 6
+47 0
+end_DTG
+begin_DTG
+0
+12
+0
+59
+3
+12 0
+0 4
+8 0
+0
+62
+3
+11 0
+0 4
+9 0
+0
+85
+3
+19 0
+1 4
+13 0
+0
+88
+3
+17 0
+1 4
+15 0
+0
+107
+3
+23 0
+2 4
+21 0
+0
+118
+3
+27 0
+3 4
+26 0
+0
+129
+3
+30 0
+4 4
+29 0
+0
+154
+3
+37 0
+5 4
+31 0
+0
+156
+3
+36 0
+5 4
+32 0
+0
+158
+3
+35 0
+5 4
+33 0
+0
+178
+3
+45 0
+6 4
+44 0
+0
+186
+3
+49 0
+7 4
+47 0
+end_DTG
+begin_DTG
+0
+12
+0
+54
+3
+12 0
+0 3
+8 0
+0
+56
+3
+11 0
+0 3
+9 0
+0
+83
+3
+19 0
+1 3
+13 0
+0
+84
+3
+17 0
+1 3
+15 0
+0
+104
+3
+23 0
+2 3
+21 0
+0
+117
+3
+27 0
+3 3
+26 0
+0
+126
+3
+30 0
+4 3
+29 0
+0
+148
+3
+37 0
+5 3
+31 0
+0
+149
+3
+36 0
+5 3
+32 0
+0
+151
+3
+35 0
+5 3
+33 0
+0
+177
+3
+45 0
+6 3
+44 0
+0
+184
+3
+49 0
+7 3
+47 0
+end_DTG
+begin_DTG
+0
+12
+0
+51
+3
+12 0
+0 2
+8 0
+0
+52
+3
+11 0
+0 2
+9 0
+0
+81
+3
+19 0
+1 2
+13 0
+0
+82
+3
+17 0
+1 2
+15 0
+0
+102
+3
+23 0
+2 2
+21 0
+0
+116
+3
+27 0
+3 2
+26 0
+0
+124
+3
+30 0
+4 2
+29 0
+0
+144
+3
+37 0
+5 2
+31 0
+0
+145
+3
+36 0
+5 2
+32 0
+0
+146
+3
+35 0
+5 2
+33 0
+0
+176
+3
+45 0
+6 2
+44 0
+0
+183
+3
+49 0
+7 2
+47 0
+end_DTG
+begin_DTG
+0
+12
+0
+48
+3
+12 0
+0 1
+8 0
+0
+50
+3
+11 0
+0 1
+9 0
+0
+77
+3
+19 0
+1 1
+13 0
+0
+80
+3
+17 0
+1 1
+15 0
+0
+101
+3
+23 0
+2 1
+21 0
+0
+115
+3
+27 0
+3 1
+26 0
+0
+123
+3
+30 0
+4 1
+29 0
+0
+140
+3
+37 0
+5 1
+31 0
+0
+142
+3
+36 0
+5 1
+32 0
+0
+143
+3
+35 0
+5 1
+33 0
+0
+175
+3
+45 0
+6 1
+44 0
+0
+182
+3
+49 0
+7 1
+47 0
+end_DTG
+begin_DTG
+1
+1
+36
+1
+48 0
+1
+0
+13
+2
+7 1
+46 0
+end_DTG
+begin_DTG
+0
+9
+0
+73
+3
+12 0
+0 7
+8 0
+0
+75
+3
+11 0
+0 7
+9 0
+0
+96
+3
+18 0
+1 7
+14 0
+0
+97
+3
+17 0
+1 7
+15 0
+0
+113
+3
+24 0
+2 7
+20 0
+0
+135
+3
+30 0
+4 7
+29 0
+0
+170
+3
+37 0
+5 7
+31 0
+0
+172
+3
+36 0
+5 7
+32 0
+0
+190
+3
+56 0
+7 7
+46 0
+end_DTG
+begin_DTG
+0
+9
+0
+67
+3
+12 0
+0 6
+8 0
+0
+70
+3
+11 0
+0 6
+9 0
+0
+92
+3
+18 0
+1 6
+14 0
+0
+93
+3
+17 0
+1 6
+15 0
+0
+110
+3
+24 0
+2 6
+20 0
+0
+132
+3
+30 0
+4 6
+29 0
+0
+163
+3
+37 0
+5 6
+31 0
+0
+166
+3
+36 0
+5 6
+32 0
+0
+188
+3
+56 0
+7 6
+46 0
+end_DTG
+begin_DTG
+0
+9
+0
+63
+3
+12 0
+0 5
+8 0
+0
+65
+3
+11 0
+0 5
+9 0
+0
+89
+3
+18 0
+1 5
+14 0
+0
+90
+3
+17 0
+1 5
+15 0
+0
+108
+3
+24 0
+2 5
+20 0
+0
+130
+3
+30 0
+4 5
+29 0
+0
+159
+3
+37 0
+5 5
+31 0
+0
+161
+3
+36 0
+5 5
+32 0
+0
+187
+3
+56 0
+7 5
+46 0
+end_DTG
+begin_DTG
+0
+9
+0
+57
+3
+12 0
+0 4
+8 0
+0
+60
+3
+11 0
+0 4
+9 0
+0
+86
+3
+18 0
+1 4
+14 0
+0
+87
+3
+17 0
+1 4
+15 0
+0
+105
+3
+24 0
+2 4
+20 0
+0
+127
+3
+30 0
+4 4
+29 0
+0
+152
+3
+37 0
+5 4
+31 0
+0
+155
+3
+36 0
+5 4
+32 0
+0
+185
+3
+56 0
+7 4
+46 0
+end_DTG
+begin_DTG
+0
+9
+0
+47
+3
+12 0
+0 1
+8 0
+0
+49
+3
+11 0
+0 1
+9 0
+0
+78
+3
+18 0
+1 1
+14 0
+0
+79
+3
+17 0
+1 1
+15 0
+0
+100
+3
+24 0
+2 1
+20 0
+0
+122
+3
+30 0
+4 1
+29 0
+0
+139
+3
+37 0
+5 1
+31 0
+0
+141
+3
+36 0
+5 1
+32 0
+0
+181
+3
+56 0
+7 1
+46 0
+end_DTG
+begin_CG
+18
+12 1
+11 1
+42 2
+61 2
+55 2
+54 2
+41 2
+53 2
+60 2
+40 2
+52 2
+59 2
+39 2
+58 2
+38 2
+51 2
+57 2
+50 2
+14
+19 1
+18 1
+17 1
+61 2
+55 2
+54 2
+53 2
+60 2
+52 2
+59 2
+58 2
+51 2
+57 2
+50 2
+18
+24 1
+23 1
+42 1
+61 1
+55 1
+54 1
+41 1
+53 1
+60 1
+40 1
+52 1
+59 1
+39 1
+58 1
+38 1
+51 1
+57 1
+50 1
+7
+27 1
+55 1
+54 1
+53 1
+52 1
+51 1
+50 1
+17
+30 1
+42 1
+61 1
+55 1
+54 1
+41 1
+53 1
+60 1
+40 1
+52 1
+59 1
+39 1
+58 1
+38 1
+51 1
+57 1
+50 1
+19
+37 1
+36 1
+35 1
+42 2
+61 2
+55 3
+54 3
+41 2
+53 3
+60 2
+40 2
+52 3
+59 2
+39 2
+58 2
+38 2
+51 3
+57 2
+50 3
+7
+45 1
+55 1
+54 1
+53 1
+52 1
+51 1
+50 1
+13
+56 1
+49 1
+61 1
+55 1
+54 1
+53 1
+60 1
+52 1
+59 1
+58 1
+51 1
+57 1
+50 1
+18
+12 1
+42 1
+61 1
+55 1
+54 1
+41 1
+53 1
+60 1
+40 1
+52 1
+59 1
+39 1
+58 1
+38 1
+51 1
+57 1
+50 1
+10 1
+18
+11 1
+42 1
+61 1
+55 1
+54 1
+41 1
+53 1
+60 1
+40 1
+52 1
+59 1
+39 1
+58 1
+38 1
+51 1
+57 1
+50 1
+10 1
+4
+12 1
+11 1
+8 1
+9 1
+16
+42 1
+61 1
+55 1
+54 1
+41 1
+53 1
+60 1
+40 1
+52 1
+59 1
+39 1
+58 1
+38 1
+51 1
+57 1
+50 1
+16
+42 1
+61 1
+55 1
+54 1
+41 1
+53 1
+60 1
+40 1
+52 1
+59 1
+39 1
+58 1
+38 1
+51 1
+57 1
+50 1
+8
+19 1
+55 1
+54 1
+53 1
+52 1
+51 1
+50 1
+16 1
+7
+18 1
+61 1
+60 1
+59 1
+58 1
+57 1
+16 1
+13
+17 1
+61 1
+55 1
+54 1
+53 1
+60 1
+52 1
+59 1
+58 1
+51 1
+57 1
+50 1
+16 1
+6
+19 1
+18 1
+17 1
+13 1
+14 1
+15 1
+11
+61 1
+55 1
+54 1
+53 1
+60 1
+52 1
+59 1
+58 1
+51 1
+57 1
+50 1
+5
+61 1
+60 1
+59 1
+58 1
+57 1
+6
+55 1
+54 1
+53 1
+52 1
+51 1
+50 1
+12
+24 1
+42 1
+61 1
+41 1
+60 1
+40 1
+59 1
+39 1
+58 1
+38 1
+57 1
+22 1
+8
+23 1
+55 1
+54 1
+53 1
+52 1
+51 1
+50 1
+22 1
+4
+24 1
+23 1
+20 1
+21 1
+6
+55 1
+54 1
+53 1
+52 1
+51 1
+50 1
+10
+42 1
+61 1
+41 1
+60 1
+40 1
+59 1
+39 1
+58 1
+38 1
+57 1
+2
+27 1
+26 1
+8
+27 1
+55 1
+54 1
+53 1
+52 1
+51 1
+50 1
+25 1
+6
+55 1
+54 1
+53 1
+52 1
+51 1
+50 1
+2
+30 1
+29 1
+18
+30 1
+42 1
+61 1
+55 1
+54 1
+41 1
+53 1
+60 1
+40 1
+52 1
+59 1
+39 1
+58 1
+38 1
+51 1
+57 1
+50 1
+28 1
+16
+42 1
+61 1
+55 1
+54 1
+41 1
+53 1
+60 1
+40 1
+52 1
+59 1
+39 1
+58 1
+38 1
+51 1
+57 1
+50 1
+18
+37 1
+42 1
+61 1
+55 1
+54 1
+41 1
+53 1
+60 1
+40 1
+52 1
+59 1
+39 1
+58 1
+38 1
+51 1
+57 1
+50 1
+34 1
+13
+36 1
+61 1
+55 1
+54 1
+53 1
+60 1
+52 1
+59 1
+58 1
+51 1
+57 1
+50 1
+34 1
+13
+35 1
+42 1
+55 1
+54 1
+41 1
+53 1
+40 1
+52 1
+39 1
+38 1
+51 1
+50 1
+34 1
+6
+37 1
+36 1
+35 1
+31 1
+32 1
+33 1
+11
+42 1
+55 1
+54 1
+41 1
+53 1
+40 1
+52 1
+39 1
+38 1
+51 1
+50 1
+11
+61 1
+55 1
+54 1
+53 1
+60 1
+52 1
+59 1
+58 1
+51 1
+57 1
+50 1
+16
+42 1
+61 1
+55 1
+54 1
+41 1
+53 1
+60 1
+40 1
+52 1
+59 1
+39 1
+58 1
+38 1
+51 1
+57 1
+50 1
+0
+0
+0
+0
+0
+2
+45 1
+44 1
+8
+45 1
+55 1
+54 1
+53 1
+52 1
+51 1
+50 1
+43 1
+6
+55 1
+54 1
+53 1
+52 1
+51 1
+50 1
+7
+56 1
+61 1
+60 1
+59 1
+58 1
+57 1
+48 1
+8
+49 1
+55 1
+54 1
+53 1
+52 1
+51 1
+50 1
+48 1
+4
+56 1
+49 1
+46 1
+47 1
+6
+55 1
+54 1
+53 1
+52 1
+51 1
+50 1
+0
+0
+0
+0
+0
+0
+5
+61 1
+60 1
+59 1
+58 1
+57 1
+0
+0
+0
+0
+0
+end_CG

@@ -1,0 +1,1746 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+20
+begin_variable
+var18
+-1
+14
+Atom at-ferry(loc1)
+Atom at-ferry(loc10)
+Atom at-ferry(loc11)
+Atom at-ferry(loc12)
+Atom at-ferry(loc13)
+Atom at-ferry(loc14)
+Atom at-ferry(loc2)
+Atom at-ferry(loc3)
+Atom at-ferry(loc4)
+Atom at-ferry(loc5)
+Atom at-ferry(loc6)
+Atom at-ferry(loc7)
+Atom at-ferry(loc8)
+Atom at-ferry(loc9)
+end_variable
+begin_variable
+var19
+-1
+19
+Atom empty-ferry()
+Atom on(car1)
+Atom on(car10)
+Atom on(car11)
+Atom on(car12)
+Atom on(car13)
+Atom on(car14)
+Atom on(car15)
+Atom on(car16)
+Atom on(car17)
+Atom on(car18)
+Atom on(car2)
+Atom on(car3)
+Atom on(car4)
+Atom on(car5)
+Atom on(car6)
+Atom on(car7)
+Atom on(car8)
+Atom on(car9)
+end_variable
+begin_variable
+var0
+-1
+15
+Atom at(car1, loc1)
+Atom at(car1, loc10)
+Atom at(car1, loc11)
+Atom at(car1, loc12)
+Atom at(car1, loc13)
+Atom at(car1, loc14)
+Atom at(car1, loc2)
+Atom at(car1, loc3)
+Atom at(car1, loc4)
+Atom at(car1, loc5)
+Atom at(car1, loc6)
+Atom at(car1, loc7)
+Atom at(car1, loc8)
+Atom at(car1, loc9)
+<none of those>
+end_variable
+begin_variable
+var1
+-1
+15
+Atom at(car10, loc1)
+Atom at(car10, loc10)
+Atom at(car10, loc11)
+Atom at(car10, loc12)
+Atom at(car10, loc13)
+Atom at(car10, loc14)
+Atom at(car10, loc2)
+Atom at(car10, loc3)
+Atom at(car10, loc4)
+Atom at(car10, loc5)
+Atom at(car10, loc6)
+Atom at(car10, loc7)
+Atom at(car10, loc8)
+Atom at(car10, loc9)
+<none of those>
+end_variable
+begin_variable
+var2
+-1
+15
+Atom at(car11, loc1)
+Atom at(car11, loc10)
+Atom at(car11, loc11)
+Atom at(car11, loc12)
+Atom at(car11, loc13)
+Atom at(car11, loc14)
+Atom at(car11, loc2)
+Atom at(car11, loc3)
+Atom at(car11, loc4)
+Atom at(car11, loc5)
+Atom at(car11, loc6)
+Atom at(car11, loc7)
+Atom at(car11, loc8)
+Atom at(car11, loc9)
+<none of those>
+end_variable
+begin_variable
+var3
+-1
+15
+Atom at(car12, loc1)
+Atom at(car12, loc10)
+Atom at(car12, loc11)
+Atom at(car12, loc12)
+Atom at(car12, loc13)
+Atom at(car12, loc14)
+Atom at(car12, loc2)
+Atom at(car12, loc3)
+Atom at(car12, loc4)
+Atom at(car12, loc5)
+Atom at(car12, loc6)
+Atom at(car12, loc7)
+Atom at(car12, loc8)
+Atom at(car12, loc9)
+<none of those>
+end_variable
+begin_variable
+var4
+-1
+15
+Atom at(car13, loc1)
+Atom at(car13, loc10)
+Atom at(car13, loc11)
+Atom at(car13, loc12)
+Atom at(car13, loc13)
+Atom at(car13, loc14)
+Atom at(car13, loc2)
+Atom at(car13, loc3)
+Atom at(car13, loc4)
+Atom at(car13, loc5)
+Atom at(car13, loc6)
+Atom at(car13, loc7)
+Atom at(car13, loc8)
+Atom at(car13, loc9)
+<none of those>
+end_variable
+begin_variable
+var5
+-1
+15
+Atom at(car14, loc1)
+Atom at(car14, loc10)
+Atom at(car14, loc11)
+Atom at(car14, loc12)
+Atom at(car14, loc13)
+Atom at(car14, loc14)
+Atom at(car14, loc2)
+Atom at(car14, loc3)
+Atom at(car14, loc4)
+Atom at(car14, loc5)
+Atom at(car14, loc6)
+Atom at(car14, loc7)
+Atom at(car14, loc8)
+Atom at(car14, loc9)
+<none of those>
+end_variable
+begin_variable
+var6
+-1
+15
+Atom at(car15, loc1)
+Atom at(car15, loc10)
+Atom at(car15, loc11)
+Atom at(car15, loc12)
+Atom at(car15, loc13)
+Atom at(car15, loc14)
+Atom at(car15, loc2)
+Atom at(car15, loc3)
+Atom at(car15, loc4)
+Atom at(car15, loc5)
+Atom at(car15, loc6)
+Atom at(car15, loc7)
+Atom at(car15, loc8)
+Atom at(car15, loc9)
+<none of those>
+end_variable
+begin_variable
+var7
+-1
+15
+Atom at(car16, loc1)
+Atom at(car16, loc10)
+Atom at(car16, loc11)
+Atom at(car16, loc12)
+Atom at(car16, loc13)
+Atom at(car16, loc14)
+Atom at(car16, loc2)
+Atom at(car16, loc3)
+Atom at(car16, loc4)
+Atom at(car16, loc5)
+Atom at(car16, loc6)
+Atom at(car16, loc7)
+Atom at(car16, loc8)
+Atom at(car16, loc9)
+<none of those>
+end_variable
+begin_variable
+var8
+-1
+15
+Atom at(car17, loc1)
+Atom at(car17, loc10)
+Atom at(car17, loc11)
+Atom at(car17, loc12)
+Atom at(car17, loc13)
+Atom at(car17, loc14)
+Atom at(car17, loc2)
+Atom at(car17, loc3)
+Atom at(car17, loc4)
+Atom at(car17, loc5)
+Atom at(car17, loc6)
+Atom at(car17, loc7)
+Atom at(car17, loc8)
+Atom at(car17, loc9)
+<none of those>
+end_variable
+begin_variable
+var9
+-1
+15
+Atom at(car18, loc1)
+Atom at(car18, loc10)
+Atom at(car18, loc11)
+Atom at(car18, loc12)
+Atom at(car18, loc13)
+Atom at(car18, loc14)
+Atom at(car18, loc2)
+Atom at(car18, loc3)
+Atom at(car18, loc4)
+Atom at(car18, loc5)
+Atom at(car18, loc6)
+Atom at(car18, loc7)
+Atom at(car18, loc8)
+Atom at(car18, loc9)
+<none of those>
+end_variable
+begin_variable
+var10
+-1
+15
+Atom at(car2, loc1)
+Atom at(car2, loc10)
+Atom at(car2, loc11)
+Atom at(car2, loc12)
+Atom at(car2, loc13)
+Atom at(car2, loc14)
+Atom at(car2, loc2)
+Atom at(car2, loc3)
+Atom at(car2, loc4)
+Atom at(car2, loc5)
+Atom at(car2, loc6)
+Atom at(car2, loc7)
+Atom at(car2, loc8)
+Atom at(car2, loc9)
+<none of those>
+end_variable
+begin_variable
+var11
+-1
+15
+Atom at(car3, loc1)
+Atom at(car3, loc10)
+Atom at(car3, loc11)
+Atom at(car3, loc12)
+Atom at(car3, loc13)
+Atom at(car3, loc14)
+Atom at(car3, loc2)
+Atom at(car3, loc3)
+Atom at(car3, loc4)
+Atom at(car3, loc5)
+Atom at(car3, loc6)
+Atom at(car3, loc7)
+Atom at(car3, loc8)
+Atom at(car3, loc9)
+<none of those>
+end_variable
+begin_variable
+var12
+-1
+15
+Atom at(car4, loc1)
+Atom at(car4, loc10)
+Atom at(car4, loc11)
+Atom at(car4, loc12)
+Atom at(car4, loc13)
+Atom at(car4, loc14)
+Atom at(car4, loc2)
+Atom at(car4, loc3)
+Atom at(car4, loc4
+
+
+
+
+ ===== FILE TOO LARGE --> MIDDLE FILE CONTENTS OMITTED ===== 
+
+
+
+
+
+234
+2
+0 10
+1 0
+14
+0
+476
+2
+0 0
+1 17
+1
+477
+2
+0 1
+1 17
+2
+478
+2
+0 2
+1 17
+3
+479
+2
+0 3
+1 17
+4
+480
+2
+0 4
+1 17
+5
+481
+2
+0 5
+1 17
+6
+482
+2
+0 6
+1 17
+7
+483
+2
+0 7
+1 17
+8
+484
+2
+0 8
+1 17
+9
+485
+2
+0 9
+1 17
+10
+486
+2
+0 10
+1 17
+12
+488
+2
+0 12
+1 17
+13
+489
+2
+0 13
+1 17
+14
+235
+2
+0 11
+1 0
+14
+0
+476
+2
+0 0
+1 17
+1
+477
+2
+0 1
+1 17
+2
+478
+2
+0 2
+1 17
+3
+479
+2
+0 3
+1 17
+4
+480
+2
+0 4
+1 17
+5
+481
+2
+0 5
+1 17
+6
+482
+2
+0 6
+1 17
+7
+483
+2
+0 7
+1 17
+8
+484
+2
+0 8
+1 17
+9
+485
+2
+0 9
+1 17
+10
+486
+2
+0 10
+1 17
+11
+487
+2
+0 11
+1 17
+13
+489
+2
+0 13
+1 17
+14
+236
+2
+0 12
+1 0
+14
+0
+476
+2
+0 0
+1 17
+1
+477
+2
+0 1
+1 17
+2
+478
+2
+0 2
+1 17
+3
+479
+2
+0 3
+1 17
+4
+480
+2
+0 4
+1 17
+5
+481
+2
+0 5
+1 17
+6
+482
+2
+0 6
+1 17
+7
+483
+2
+0 7
+1 17
+8
+484
+2
+0 8
+1 17
+9
+485
+2
+0 9
+1 17
+10
+486
+2
+0 10
+1 17
+11
+487
+2
+0 11
+1 17
+12
+488
+2
+0 12
+1 17
+14
+237
+2
+0 13
+1 0
+14
+0
+476
+2
+0 0
+1 17
+1
+477
+2
+0 1
+1 17
+2
+478
+2
+0 2
+1 17
+3
+479
+2
+0 3
+1 17
+4
+480
+2
+0 4
+1 17
+5
+481
+2
+0 5
+1 17
+6
+482
+2
+0 6
+1 17
+7
+483
+2
+0 7
+1 17
+8
+484
+2
+0 8
+1 17
+9
+485
+2
+0 9
+1 17
+10
+486
+2
+0 10
+1 17
+11
+487
+2
+0 11
+1 17
+12
+488
+2
+0 12
+1 17
+13
+489
+2
+0 13
+1 17
+end_DTG
+begin_DTG
+14
+1
+491
+2
+0 1
+1 18
+2
+492
+2
+0 2
+1 18
+3
+493
+2
+0 3
+1 18
+4
+494
+2
+0 4
+1 18
+5
+495
+2
+0 5
+1 18
+6
+496
+2
+0 6
+1 18
+7
+497
+2
+0 7
+1 18
+8
+498
+2
+0 8
+1 18
+9
+499
+2
+0 9
+1 18
+10
+500
+2
+0 10
+1 18
+11
+501
+2
+0 11
+1 18
+12
+502
+2
+0 12
+1 18
+13
+503
+2
+0 13
+1 18
+14
+238
+2
+0 0
+1 0
+14
+0
+490
+2
+0 0
+1 18
+2
+492
+2
+0 2
+1 18
+3
+493
+2
+0 3
+1 18
+4
+494
+2
+0 4
+1 18
+5
+495
+2
+0 5
+1 18
+6
+496
+2
+0 6
+1 18
+7
+497
+2
+0 7
+1 18
+8
+498
+2
+0 8
+1 18
+9
+499
+2
+0 9
+1 18
+10
+500
+2
+0 10
+1 18
+11
+501
+2
+0 11
+1 18
+12
+502
+2
+0 12
+1 18
+13
+503
+2
+0 13
+1 18
+14
+239
+2
+0 1
+1 0
+14
+0
+490
+2
+0 0
+1 18
+1
+491
+2
+0 1
+1 18
+3
+493
+2
+0 3
+1 18
+4
+494
+2
+0 4
+1 18
+5
+495
+2
+0 5
+1 18
+6
+496
+2
+0 6
+1 18
+7
+497
+2
+0 7
+1 18
+8
+498
+2
+0 8
+1 18
+9
+499
+2
+0 9
+1 18
+10
+500
+2
+0 10
+1 18
+11
+501
+2
+0 11
+1 18
+12
+502
+2
+0 12
+1 18
+13
+503
+2
+0 13
+1 18
+14
+240
+2
+0 2
+1 0
+14
+0
+490
+2
+0 0
+1 18
+1
+491
+2
+0 1
+1 18
+2
+492
+2
+0 2
+1 18
+4
+494
+2
+0 4
+1 18
+5
+495
+2
+0 5
+1 18
+6
+496
+2
+0 6
+1 18
+7
+497
+2
+0 7
+1 18
+8
+498
+2
+0 8
+1 18
+9
+499
+2
+0 9
+1 18
+10
+500
+2
+0 10
+1 18
+11
+501
+2
+0 11
+1 18
+12
+502
+2
+0 12
+1 18
+13
+503
+2
+0 13
+1 18
+14
+241
+2
+0 3
+1 0
+14
+0
+490
+2
+0 0
+1 18
+1
+491
+2
+0 1
+1 18
+2
+492
+2
+0 2
+1 18
+3
+493
+2
+0 3
+1 18
+5
+495
+2
+0 5
+1 18
+6
+496
+2
+0 6
+1 18
+7
+497
+2
+0 7
+1 18
+8
+498
+2
+0 8
+1 18
+9
+499
+2
+0 9
+1 18
+10
+500
+2
+0 10
+1 18
+11
+501
+2
+0 11
+1 18
+12
+502
+2
+0 12
+1 18
+13
+503
+2
+0 13
+1 18
+14
+242
+2
+0 4
+1 0
+14
+0
+490
+2
+0 0
+1 18
+1
+491
+2
+0 1
+1 18
+2
+492
+2
+0 2
+1 18
+3
+493
+2
+0 3
+1 18
+4
+494
+2
+0 4
+1 18
+6
+496
+2
+0 6
+1 18
+7
+497
+2
+0 7
+1 18
+8
+498
+2
+0 8
+1 18
+9
+499
+2
+0 9
+1 18
+10
+500
+2
+0 10
+1 18
+11
+501
+2
+0 11
+1 18
+12
+502
+2
+0 12
+1 18
+13
+503
+2
+0 13
+1 18
+14
+243
+2
+0 5
+1 0
+14
+0
+490
+2
+0 0
+1 18
+1
+491
+2
+0 1
+1 18
+2
+492
+2
+0 2
+1 18
+3
+493
+2
+0 3
+1 18
+4
+494
+2
+0 4
+1 18
+5
+495
+2
+0 5
+1 18
+7
+497
+2
+0 7
+1 18
+8
+498
+2
+0 8
+1 18
+9
+499
+2
+0 9
+1 18
+10
+500
+2
+0 10
+1 18
+11
+501
+2
+0 11
+1 18
+12
+502
+2
+0 12
+1 18
+13
+503
+2
+0 13
+1 18
+14
+244
+2
+0 6
+1 0
+14
+0
+490
+2
+0 0
+1 18
+1
+491
+2
+0 1
+1 18
+2
+492
+2
+0 2
+1 18
+3
+493
+2
+0 3
+1 18
+4
+494
+2
+0 4
+1 18
+5
+495
+2
+0 5
+1 18
+6
+496
+2
+0 6
+1 18
+8
+498
+2
+0 8
+1 18
+9
+499
+2
+0 9
+1 18
+10
+500
+2
+0 10
+1 18
+11
+501
+2
+0 11
+1 18
+12
+502
+2
+0 12
+1 18
+13
+503
+2
+0 13
+1 18
+14
+245
+2
+0 7
+1 0
+14
+0
+490
+2
+0 0
+1 18
+1
+491
+2
+0 1
+1 18
+2
+492
+2
+0 2
+1 18
+3
+493
+2
+0 3
+1 18
+4
+494
+2
+0 4
+1 18
+5
+495
+2
+0 5
+1 18
+6
+496
+2
+0 6
+1 18
+7
+497
+2
+0 7
+1 18
+9
+499
+2
+0 9
+1 18
+10
+500
+2
+0 10
+1 18
+11
+501
+2
+0 11
+1 18
+12
+502
+2
+0 12
+1 18
+13
+503
+2
+0 13
+1 18
+14
+246
+2
+0 8
+1 0
+14
+0
+490
+2
+0 0
+1 18
+1
+491
+2
+0 1
+1 18
+2
+492
+2
+0 2
+1 18
+3
+493
+2
+0 3
+1 18
+4
+494
+2
+0 4
+1 18
+5
+495
+2
+0 5
+1 18
+6
+496
+2
+0 6
+1 18
+7
+497
+2
+0 7
+1 18
+8
+498
+2
+0 8
+1 18
+10
+500
+2
+0 10
+1 18
+11
+501
+2
+0 11
+1 18
+12
+502
+2
+0 12
+1 18
+13
+503
+2
+0 13
+1 18
+14
+247
+2
+0 9
+1 0
+14
+0
+490
+2
+0 0
+1 18
+1
+491
+2
+0 1
+1 18
+2
+492
+2
+0 2
+1 18
+3
+493
+2
+0 3
+1 18
+4
+494
+2
+0 4
+1 18
+5
+495
+2
+0 5
+1 18
+6
+496
+2
+0 6
+1 18
+7
+497
+2
+0 7
+1 18
+8
+498
+2
+0 8
+1 18
+9
+499
+2
+0 9
+1 18
+11
+501
+2
+0 11
+1 18
+12
+502
+2
+0 12
+1 18
+13
+503
+2
+0 13
+1 18
+14
+248
+2
+0 10
+1 0
+14
+0
+490
+2
+0 0
+1 18
+1
+491
+2
+0 1
+1 18
+2
+492
+2
+0 2
+1 18
+3
+493
+2
+0 3
+1 18
+4
+494
+2
+0 4
+1 18
+5
+495
+2
+0 5
+1 18
+6
+496
+2
+0 6
+1 18
+7
+497
+2
+0 7
+1 18
+8
+498
+2
+0 8
+1 18
+9
+499
+2
+0 9
+1 18
+10
+500
+2
+0 10
+1 18
+12
+502
+2
+0 12
+1 18
+13
+503
+2
+0 13
+1 18
+14
+249
+2
+0 11
+1 0
+14
+0
+490
+2
+0 0
+1 18
+1
+491
+2
+0 1
+1 18
+2
+492
+2
+0 2
+1 18
+3
+493
+2
+0 3
+1 18
+4
+494
+2
+0 4
+1 18
+5
+495
+2
+0 5
+1 18
+6
+496
+2
+0 6
+1 18
+7
+497
+2
+0 7
+1 18
+8
+498
+2
+0 8
+1 18
+9
+499
+2
+0 9
+1 18
+10
+500
+2
+0 10
+1 18
+11
+501
+2
+0 11
+1 18
+13
+503
+2
+0 13
+1 18
+14
+250
+2
+0 12
+1 0
+14
+0
+490
+2
+0 0
+1 18
+1
+491
+2
+0 1
+1 18
+2
+492
+2
+0 2
+1 18
+3
+493
+2
+0 3
+1 18
+4
+494
+2
+0 4
+1 18
+5
+495
+2
+0 5
+1 18
+6
+496
+2
+0 6
+1 18
+7
+497
+2
+0 7
+1 18
+8
+498
+2
+0 8
+1 18
+9
+499
+2
+0 9
+1 18
+10
+500
+2
+0 10
+1 18
+11
+501
+2
+0 11
+1 18
+12
+502
+2
+0 12
+1 18
+14
+251
+2
+0 13
+1 0
+14
+0
+490
+2
+0 0
+1 18
+1
+491
+2
+0 1
+1 18
+2
+492
+2
+0 2
+1 18
+3
+493
+2
+0 3
+1 18
+4
+494
+2
+0 4
+1 18
+5
+495
+2
+0 5
+1 18
+6
+496
+2
+0 6
+1 18
+7
+497
+2
+0 7
+1 18
+8
+498
+2
+0 8
+1 18
+9
+499
+2
+0 9
+1 18
+10
+500
+2
+0 10
+1 18
+11
+501
+2
+0 11
+1 18
+12
+502
+2
+0 12
+1 18
+13
+503
+2
+0 13
+1 18
+end_DTG
+begin_CG
+19
+2 28
+3 28
+4 28
+5 28
+6 28
+7 28
+8 28
+9 28
+10 28
+11 28
+12 28
+13 28
+14 28
+15 28
+16 28
+17 28
+18 28
+19 28
+1 504
+18
+2 28
+3 28
+4 28
+5 28
+6 28
+7 28
+8 28
+9 28
+10 28
+11 28
+12 28
+13 28
+14 28
+15 28
+16 28
+17 28
+18 28
+19 28
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+1
+1 14
+end_CG

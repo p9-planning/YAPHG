@@ -1,0 +1,3 @@
+move loc_4_4 loc_4_3 left
+move loc_5_4 loc_4_4 up
+push loc_4_3 loc_5_3 loc_6_3 down box1

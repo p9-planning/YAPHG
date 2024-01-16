@@ -1,0 +1,9 @@
+board f2 p1
+board f5 p3
+board f8 p2
+depart f7 p2
+depart f8 p1
+depart f8 p3
+down f8 f7
+up f2 f5
+up f5 f8

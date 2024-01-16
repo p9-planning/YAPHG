@@ -1,0 +1,4 @@
+pickup_spanner location1 spanner1 bob
+tighten_nut gate spanner1 bob nut1
+walk location1 gate bob
+walk shed location1 bob

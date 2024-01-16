@@ -1,0 +1,611 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+5
+begin_variable
+var4
+-1
+2
+Atom clear(loc_4_2)
+NegatedAtom clear(loc_4_2)
+end_variable
+begin_variable
+var6
+-1
+2
+Atom clear(loc_4_4)
+NegatedAtom clear(loc_4_4)
+end_variable
+begin_variable
+var5
+-1
+2
+Atom clear(loc_4_3)
+NegatedAtom clear(loc_4_3)
+end_variable
+begin_variable
+var1
+-1
+8
+Atom at-robot(loc_2_4)
+Atom at-robot(loc_3_4)
+Atom at-robot(loc_4_3)
+Atom at-robot(loc_4_4)
+Atom at-robot(loc_4_5)
+Atom at-robot(loc_4_6)
+Atom at-robot(loc_5_4)
+Atom at-robot(loc_6_4)
+end_variable
+begin_variable
+var0
+-1
+3
+Atom at(box1, loc_4_2)
+Atom at(box1, loc_4_3)
+Atom at(box1, loc_4_4)
+end_variable
+27
+begin_mutex_group
+mutex
+fw
+2
+4 0
+0 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+4 1
+2 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+4 2
+1 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+2 1
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+1 1
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+4 1
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+0 1
+4 2
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+2 1
+1 1
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+2 1
+3 2
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+2 1
+4 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+2 1
+4 2
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+1 1
+3 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+1 1
+3 1
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+1 1
+3 2
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+1 1
+3 3
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+1 1
+3 6
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+1 1
+3 7
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+1 1
+4 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+1 1
+4 1
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+3 0
+4 2
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+3 1
+4 2
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+3 2
+4 1
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+3 2
+4 2
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+3 3
+4 2
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+3 6
+4 2
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+3 7
+4 2
+end_mutex_group
+begin_mutex_group
+mutex
+bw
+2
+0 0
+3 2
+end_mutex_group
+begin_state
+0
+1
+0
+5
+2
+end_state
+begin_goal
+1
+4 0
+end_goal
+16
+begin_operator
+move loc_2_4 loc_3_4 down
+0
+1
+0 3 0 1
+1
+end_operator
+begin_operator
+move loc_3_4 loc_2_4 up
+0
+1
+0 3 1 0
+1
+end_operator
+begin_operator
+move loc_3_4 loc_4_4 down
+1
+1 0
+1
+0 3 1 3
+1
+end_operator
+begin_operator
+move loc_4_3 loc_4_4 right
+1
+1 0
+1
+0 3 2 3
+1
+end_operator
+begin_operator
+move loc_4_4 loc_3_4 up
+0
+1
+0 3 3 1
+1
+end_operator
+begin_operator
+move loc_4_4 loc_4_3 left
+1
+2 0
+1
+0 3 3 2
+1
+end_operator
+begin_operator
+move loc_4_4 loc_4_5 right
+0
+1
+0 3 3 4
+1
+end_operator
+begin_operator
+move loc_4_4 loc_5_4 down
+0
+1
+0 3 3 6
+1
+end_operator
+begin_operator
+move loc_4_5 loc_4_4 left
+1
+1 0
+1
+0 3 4 3
+1
+end_operator
+begin_operator
+move loc_4_5 loc_4_6 right
+0
+1
+0 3 4 5
+1
+end_operator
+begin_operator
+move loc_4_6 loc_4_5 left
+0
+1
+0 3 5 4
+1
+end_operator
+begin_operator
+move loc_5_4 loc_4_4 up
+1
+1 0
+1
+0 3 6 3
+1
+end_operator
+begin_operator
+move loc_5_4 loc_6_4 down
+0
+1
+0 3 6 7
+1
+end_operator
+begin_operator
+move loc_6_4 loc_5_4 up
+0
+1
+0 3 7 6
+1
+end_operator
+begin_operator
+push loc_4_4 loc_4_3 loc_4_2 left box1
+0
+4
+0 4 1 0
+0 3 3 2
+0 0 0 1
+0 2 -1 0
+1
+end_operator
+begin_operator
+push loc_4_5 loc_4_4 loc_4_3 left box1
+0
+4
+0 4 2 1
+0 3 4 3
+0 2 0 1
+0 1 -1 0
+1
+end_operator
+0
+begin_SG
+switch 4
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+14
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+15
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 1
+0
+switch 0
+check 1
+1
+check 0
+check 0
+switch 1
+check 0
+check 1
+2
+check 0
+check 0
+switch 1
+check 0
+check 1
+3
+check 0
+check 0
+switch 0
+check 3
+4
+6
+7
+check 0
+check 0
+switch 2
+check 0
+check 1
+5
+check 0
+check 0
+switch 0
+check 1
+9
+check 0
+check 0
+switch 1
+check 0
+check 1
+8
+check 0
+check 0
+check 1
+10
+switch 0
+check 1
+12
+check 0
+check 0
+switch 1
+check 0
+check 1
+11
+check 0
+check 0
+check 1
+13
+check 0
+end_SG
+begin_DTG
+1
+1
+14
+2
+4 1
+3 3
+0
+end_DTG
+begin_DTG
+0
+1
+0
+15
+3
+4 2
+3 4
+2 0
+end_DTG
+begin_DTG
+1
+1
+15
+2
+4 2
+3 4
+1
+0
+14
+3
+4 1
+3 3
+0 0
+end_DTG
+begin_DTG
+1
+1
+0
+0
+2
+0
+1
+0
+3
+2
+1
+1 0
+1
+3
+3
+1
+1 0
+5
+1
+4
+0
+2
+5
+1
+2 0
+2
+14
+2
+4 1
+0 0
+4
+6
+0
+6
+7
+0
+3
+3
+8
+1
+1 0
+3
+15
+2
+4 2
+2 0
+5
+9
+0
+1
+4
+10
+0
+2
+3
+11
+1
+1 0
+7
+12
+0
+1
+6
+13
+0
+end_DTG
+begin_DTG
+0
+1
+0
+14
+2
+3 3
+0 0
+1
+1
+15
+2
+3 4
+2 0
+end_DTG
+begin_CG
+3
+4 1
+3 1
+2 1
+1
+3 4
+3
+4 1
+3 2
+1 1
+4
+4 2
+0 1
+2 2
+1 1
+4
+3 2
+0 1
+2 2
+1 1
+end_CG

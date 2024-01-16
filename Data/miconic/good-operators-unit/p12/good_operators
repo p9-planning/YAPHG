@@ -1,0 +1,4 @@
+board f1 p1
+depart f3 p1
+down f2 f1
+up f1 f3

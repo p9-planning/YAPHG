@@ -1,0 +1,1527 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+41
+begin_variable
+var38
+-1
+2
+Atom robot-has(robot1, black)
+Atom robot-has(robot1, white)
+end_variable
+begin_variable
+var39
+-1
+2
+Atom robot-has(robot2, black)
+Atom robot-has(robot2, white)
+end_variable
+begin_variable
+var40
+-1
+2
+Atom robot-has(robot3, black)
+Atom robot-has(robot3, white)
+end_variable
+begin_variable
+var0
+-1
+2
+Atom clear(tile_0_1)
+<none of those>
+end_variable
+begin_variable
+var6
+-1
+2
+Atom clear(tile_0_7)
+<none of those>
+end_variable
+begin_variable
+var1
+-1
+2
+Atom clear(tile_0_2)
+<none of those>
+end_variable
+begin_variable
+var5
+-1
+2
+Atom clear(tile_0_6)
+<none of those>
+end_variable
+begin_variable
+var2
+-1
+2
+Atom clear(tile_0_3)
+<none of those>
+end_variable
+begin_variable
+var4
+-1
+2
+Atom clear(tile_0_5)
+<none of those>
+end_variable
+begin_variable
+var3
+-1
+2
+Atom clear(tile_0_4)
+<none of those>
+end_variable
+begin_variable
+var35
+-1
+35
+Atom robot-at(robot1, tile_0_1)
+Atom robot-at(robot1, tile_0_2)
+Atom robot-at(robot1, tile_0_3)
+Atom robot-at(robot1, tile_0_4)
+Atom robot-at(robot1, tile_0_5)
+Atom robot-at(robot1, tile_0_6)
+Atom robot-at(robot1, tile_0_7)
+Atom robot-at(robot1, tile_1_1)
+Atom robot-at(robot1, tile_1_2)
+Atom robot-at(robot1, tile_1_3)
+Atom robot-at(robot1, tile_1_4)
+Atom robot-at(robot1, tile_1_5)
+Atom robot-at(robot1, tile_1_6)
+Atom robot-at(robot1, tile_1_7)
+Atom robot-at(robot1, tile_2_1)
+Atom robot-at(robot1, tile_2_2)
+Atom robot-at(robot1, tile_2_3)
+Atom robot-at(robot1, tile_2_4)
+Atom robot-at(robot1, tile_2_5)
+Atom robot-at(robot1, tile_2_6)
+Atom robot-at(robot1, tile_2_7)
+Atom robot-at(robot1, tile_3_1)
+Atom robot-at(robot1, tile_3_2)
+Atom robot-at(robot1, tile_3_3)
+Atom robot-at(robot1, tile_3_4)
+Atom robot-at(robot1, tile_3_5)
+Atom robot-at(robot1, tile_3_6)
+Atom robot-at(robot1, tile_3_7)
+Atom robot-at(robot1, tile_4_1)
+Atom robot-at(robot1, tile_4_2)
+Atom robot-at(robot1, tile_4_3)
+Atom robot-at(robot1, tile_4_4)
+Atom robot-at(robot1, tile_4_5)
+Atom robot-at(robot1, tile_4_6)
+Atom robot-at(robot1, tile_4_7)
+end_variable
+begin_variable
+var36
+-1
+35
+Atom robot-at(robot2, tile_0_1)
+Atom robot-at(robot2, tile_0_2)
+Atom robot-at(robot2, tile_0_3)
+Atom robot-at(robot2, tile_0_4)
+Atom robot-at(robot2, tile_0_5)
+Atom robot-at(robot2, tile_0_6)
+Atom robot-at(robot2, tile_0_7)
+Atom robot-at(robot2, tile_1_1)
+Atom robot-at(robot2, tile_1_2)
+Atom robot-at(robot2, tile_1_3)
+Atom robot-at(robot2, tile_1_4)
+Atom robot-at(robot2, tile_1_5)
+Atom robot-at(robot2, tile_1_6)
+Atom robot-at(robot2, tile_1_7)
+Atom robot-at(robot2, tile_2_1)
+Atom robot-at(robot2, tile_2_2)
+Atom robot-at(robot2, tile_2_3)
+Atom robot-at(robot2, tile_2_4)
+Atom robot-at(robot2, tile_2_5)
+Atom robot-at(robot2, tile_2_6)
+Atom robot-at(robot2, tile_2_7)
+Atom robot-at(robot2, tile_3_1)
+Atom robot-at(robot2, tile_3_2)
+Atom robot-at(robot2, tile_3_3)
+Atom robot-at(robot2, tile_3_4)
+Atom robot-at(robot2, tile_3_5)
+Atom robot-at(robot2, tile_3_6)
+Atom robot-at(robot2, tile_3_7)
+Atom robot-at(robot2, tile_4_1)
+Atom robot-at(robot2, tile_4_2)
+Atom robot-at(robot2, tile_4_3)
+Atom robot-at(robot2, tile_4_4)
+Atom robot-at(robot2, tile_4_5)
+Atom robot-at(robot2, tile_4_6)
+Atom robot-at(robot2, tile_4_7)
+end_variable
+begin_variable
+var37
+-1
+35
+Atom robot-at(robot3, tile_0_1)
+Atom robot-at(robot3, tile_0_2)
+Atom robot-at(robot3, tile_0_3)
+Atom robot-at(robot3, tile_0_4)
+Atom robot-at(robot3, tile_0_5)
+Atom robot-at(robot3, tile_0_6)
+Atom robot-at(robot3, tile_0_7)
+Atom robot-at(robot3, tile_1_1)
+Atom robot-at(robot3, tile_1_2)
+Atom robot-at(robot3, tile_1_3)
+Atom robot-at(robot3, tile_1_4)
+Atom robot-at(robot3, tile_1_5)
+Atom robot-at(robot3, tile_1_6)
+Atom robot-at(robot3, tile_1_7)
+Atom robot-at(robot3, tile_2_1)
+Atom robot-at(robot3, tile_2_2)
+Atom robot-at(robot3, tile_2_3)
+Atom robot-at(robot3, tile_2_4)
+Atom robot-at(robot3, tile_2_5)
+Atom robot-at(robot3, tile_2_6)
+Atom robot-at(robot3, tile_2_7)
+Atom robot-at(robot3, tile_3_1)
+Atom robot-at(robot3, tile_3_2)
+Atom robot-at(robot3, tile_3_3)
+Atom robot-at(robot3, tile_3_4)
+Atom robot-at(robot3, tile_3_5)
+Atom robot-at(robot3, tile_3_6)
+Atom robot-at(robot3, tile_3_7)
+Atom robot-at(robot3, tile_4_1)
+Atom robot-at(robot3, tile_4_2)
+Atom robot-at(robot3, tile_4_3)
+Atom robot-at(robot3, tile_4_4)
+Atom robot-at(robot3, tile_4_5)
+Atom robot-at(robot3, tile_4_6)
+Atom robot-at(robot3, tile_4_7)
+end_variable
+begin_variable
+var28
+-1
+3
+Atom clear(tile_4_1)
+Atom painted(tile_4_1, black)
+<none of those>
+end_variable
+begin_variable
+var34
+-1
+3
+Atom clear(tile_4_7)
+Atom painted(tile_4_7, black)
+<none of those>
+end_variable
+begin_variable
+var7
+-1
+3
+Atom clear(tile_1_1)
+Atom painted(tile_1_1, white)
+<none of those>
+end_variable
+begin_variable
+var13
+-1
+3
+Atom clear(tile_1_7)
+Atom painted(tile_1_7, white)
+<none of those>
+end_variable
+begin_variable
+var21
+-1
+3
+Atom clear(tile_3_1)
+Atom painted(tile_3_1, white)
+<none of those>
+end_variable
+begin_variable
+var14
+-1
+3
+Atom clear(tile_2_1)
+Atom painted(tile_2_1, black)
+<none of those>
+end_variable
+begin_variable
+var29
+-1
+3
+Atom clear(tile_4_2)
+Atom painted(tile_4_2, white)
+<none of those>
+end_variable
+begin_variable
+var27
+
+
+
+
+ ===== FILE TOO LARGE --> MIDDLE FILE CONTENTS OMITTED ===== 
+
+
+
+
+
+10 16
+0
+43
+2
+32 0
+11 16
+0
+71
+2
+32 0
+12 16
+0
+103
+2
+29 0
+10 16
+0
+133
+2
+29 0
+11 16
+0
+163
+2
+29 0
+12 16
+0
+194
+2
+40 0
+10 16
+0
+224
+2
+40 0
+11 16
+0
+254
+2
+40 0
+12 16
+0
+286
+2
+35 0
+10 16
+0
+314
+2
+35 0
+11 16
+0
+342
+2
+35 0
+12 16
+end_DTG
+begin_DTG
+15
+1
+372
+2
+10 18
+0 1
+1
+400
+2
+11 18
+1 1
+1
+428
+2
+12 18
+2 1
+2
+31
+1
+10 32
+2
+59
+1
+11 32
+2
+87
+1
+12 32
+2
+112
+1
+10 26
+2
+142
+1
+11 26
+2
+172
+1
+12 26
+2
+201
+1
+10 24
+2
+231
+1
+11 24
+2
+261
+1
+12 24
+2
+288
+1
+10 18
+2
+316
+1
+11 18
+2
+344
+1
+12 18
+12
+0
+24
+2
+38 0
+10 25
+0
+52
+2
+38 0
+11 25
+0
+80
+2
+38 0
+12 25
+0
+111
+2
+39 0
+10 25
+0
+141
+2
+39 0
+11 25
+0
+171
+2
+39 0
+12 25
+0
+202
+2
+30 0
+10 25
+0
+232
+2
+30 0
+11 25
+0
+262
+2
+30 0
+12 25
+0
+295
+2
+24 0
+10 25
+0
+323
+2
+24 0
+11 25
+0
+351
+2
+24 0
+12 25
+12
+0
+24
+2
+38 0
+10 25
+0
+52
+2
+38 0
+11 25
+0
+80
+2
+38 0
+12 25
+0
+111
+2
+39 0
+10 25
+0
+141
+2
+39 0
+11 25
+0
+171
+2
+39 0
+12 25
+0
+202
+2
+30 0
+10 25
+0
+232
+2
+30 0
+11 25
+0
+262
+2
+30 0
+12 25
+0
+295
+2
+24 0
+10 25
+0
+323
+2
+24 0
+11 25
+0
+351
+2
+24 0
+12 25
+end_DTG
+begin_DTG
+15
+1
+365
+2
+10 11
+0 0
+1
+393
+2
+11 11
+1 0
+1
+421
+2
+12 11
+2 0
+2
+24
+1
+10 25
+2
+52
+1
+11 25
+2
+80
+1
+12 25
+2
+106
+1
+10 19
+2
+136
+1
+11 19
+2
+166
+1
+12 19
+2
+195
+1
+10 17
+2
+225
+1
+11 17
+2
+255
+1
+12 17
+2
+281
+1
+10 11
+2
+309
+1
+11 11
+2
+337
+1
+12 11
+12
+0
+17
+2
+33 0
+10 18
+0
+45
+2
+33 0
+11 18
+0
+73
+2
+33 0
+12 18
+0
+105
+2
+40 0
+10 18
+0
+135
+2
+40 0
+11 18
+0
+165
+2
+40 0
+12 18
+0
+196
+2
+31 0
+10 18
+0
+226
+2
+31 0
+11 18
+0
+256
+2
+31 0
+12 18
+0
+288
+2
+37 0
+10 18
+0
+316
+2
+37 0
+11 18
+0
+344
+2
+37 0
+12 18
+12
+0
+17
+2
+33 0
+10 18
+0
+45
+2
+33 0
+11 18
+0
+73
+2
+33 0
+12 18
+0
+105
+2
+40 0
+10 18
+0
+135
+2
+40 0
+11 18
+0
+165
+2
+40 0
+12 18
+0
+196
+2
+31 0
+10 18
+0
+226
+2
+31 0
+11 18
+0
+256
+2
+31 0
+12 18
+0
+288
+2
+37 0
+10 18
+0
+316
+2
+37 0
+11 18
+0
+344
+2
+37 0
+12 18
+end_DTG
+begin_DTG
+15
+1
+371
+2
+10 17
+0 0
+1
+399
+2
+11 17
+1 0
+1
+427
+2
+12 17
+2 0
+2
+30
+1
+10 31
+2
+58
+1
+11 31
+2
+86
+1
+12 31
+2
+111
+1
+10 25
+2
+141
+1
+11 25
+2
+171
+1
+12 25
+2
+200
+1
+10 23
+2
+230
+1
+11 23
+2
+260
+1
+12 23
+2
+287
+1
+10 17
+2
+315
+1
+11 17
+2
+343
+1
+12 17
+12
+0
+23
+2
+40 0
+10 24
+0
+51
+2
+40 0
+11 24
+0
+79
+2
+40 0
+12 24
+0
+110
+2
+35 0
+10 24
+0
+140
+2
+35 0
+11 24
+0
+170
+2
+35 0
+12 24
+0
+201
+2
+37 0
+10 24
+0
+231
+2
+37 0
+11 24
+0
+261
+2
+37 0
+12 24
+0
+294
+2
+25 0
+10 24
+0
+322
+2
+25 0
+11 24
+0
+350
+2
+25 0
+12 24
+12
+0
+23
+2
+40 0
+10 24
+0
+51
+2
+40 0
+11 24
+0
+79
+2
+40 0
+12 24
+0
+110
+2
+35 0
+10 24
+0
+140
+2
+35 0
+11 24
+0
+170
+2
+35 0
+12 24
+0
+201
+2
+37 0
+10 24
+0
+231
+2
+37 0
+11 24
+0
+261
+2
+37 0
+12 24
+0
+294
+2
+25 0
+10 24
+0
+322
+2
+25 0
+11 24
+0
+350
+2
+25 0
+12 24
+end_DTG
+begin_DTG
+15
+1
+364
+2
+10 10
+0 1
+1
+392
+2
+11 10
+1 1
+1
+420
+2
+12 10
+2 1
+2
+23
+1
+10 24
+2
+51
+1
+11 24
+2
+79
+1
+12 24
+2
+105
+1
+10 18
+2
+135
+1
+11 18
+2
+165
+1
+12 18
+2
+194
+1
+10 16
+2
+224
+1
+11 16
+2
+254
+1
+12 16
+2
+280
+1
+10 10
+2
+308
+1
+11 10
+2
+336
+1
+12 10
+12
+0
+16
+2
+34 0
+10 17
+0
+44
+2
+34 0
+11 17
+0
+72
+2
+34 0
+12 17
+0
+104
+2
+36 0
+10 17
+0
+134
+2
+36 0
+11 17
+0
+164
+2
+36 0
+12 17
+0
+195
+2
+38 0
+10 17
+0
+225
+2
+38 0
+11 17
+0
+255
+2
+38 0
+12 17
+0
+287
+2
+39 0
+10 17
+0
+315
+2
+39 0
+11 17
+0
+343
+2
+39 0
+12 17
+12
+0
+16
+2
+34 0
+10 17
+0
+44
+2
+34 0
+11 17
+0
+72
+2
+34 0
+12 17
+0
+104
+2
+36 0
+10 17
+0
+134
+2
+36 0
+11 17
+0
+164
+2
+36 0
+12 17
+0
+195
+2
+38 0
+10 17
+0
+225
+2
+38 0
+11 17
+0
+255
+2
+38 0
+12 17
+0
+287
+2
+39 0
+10 17
+0
+315
+2
+39 0
+11 17
+0
+343
+2
+39 0
+12 17
+end_DTG
+begin_CG
+28
+15 1
+26 1
+32 1
+34 1
+33 1
+27 1
+16 1
+18 1
+29 1
+36 1
+40 1
+38 1
+31 1
+21 1
+17 1
+28 1
+35 1
+39 1
+37 1
+30 1
+20 1
+13 1
+19 1
+23 1
+25 1
+24 1
+22 1
+14 1
+28
+15 1
+26 1
+32 1
+34 1
+33 1
+27 1
+16 1
+18 1
+29 1
+36 1
+40 1
+38 1
+31 1
+21 1
+17 1
+28 1
+35 1
+39 1
+37 1
+30 1
+20 1
+13 1
+19 1
+23 1
+25 1
+24 1
+22 1
+14 1
+28
+15 1
+26 1
+32 1
+34 1
+33 1
+27 1
+16 1
+18 1
+29 1
+36 1
+40 1
+38 1
+31 1
+21 1
+17 1
+28 1
+35 1
+39 1
+37 1
+30 1
+20 1
+13 1
+19 1
+23 1
+25 1
+24 1
+22 1
+14 1
+5
+5 3
+15 3
+10 2
+11 2
+12 2
+5
+6 3
+16 3
+10 2
+11 2
+12 2
+6
+3 3
+7 3
+26 3
+10 3
+11 3
+12 3
+6
+8 3
+4 3
+27 3
+10 3
+11 3
+12 3
+6
+5 3
+9 3
+32 3
+10 3
+11 3
+12 3
+6
+9 3
+6 3
+33 3
+10 3
+11 3
+12 3
+6
+7 3
+8 3
+34 3
+10 3
+11 3
+12 3
+35
+3 4
+5 6
+7 6
+9 6
+8 6
+6 6
+4 4
+15 7
+26 9
+32 9
+34 9
+33 9
+27 9
+16 7
+18 7
+29 9
+36 9
+40 9
+38 9
+31 9
+21 7
+17 7
+28 9
+35 9
+39 9
+37 9
+30 9
+20 7
+13 5
+19 7
+23 7
+25 7
+24 7
+22 7
+14 5
+35
+3 4
+5 6
+7 6
+9 6
+8 6
+6 6
+4 4
+15 7
+26 9
+32 9
+34 9
+33 9
+27 9
+16 7
+18 7
+29 9
+36 9
+40 9
+38 9
+31 9
+21 7
+17 7
+28 9
+35 9
+39 9
+37 9
+30 9
+20 7
+13 5
+19 7
+23 7
+25 7
+24 7
+22 7
+14 5
+35
+3 4
+5 6
+7 6
+9 6
+8 6
+6 6
+4 4
+15 7
+26 9
+32 9
+34 9
+33 9
+27 9
+16 7
+18 7
+29 9
+36 9
+40 9
+38 9
+31 9
+21 7
+17 7
+28 9
+35 9
+39 9
+37 9
+30 9
+20 7
+13 5
+19 7
+23 7
+25 7
+24 7
+22 7
+14 5
+5
+17 3
+19 3
+10 2
+11 2
+12 2
+5
+20 3
+22 3
+10 2
+11 2
+12 2
+6
+3 3
+26 3
+18 3
+10 3
+11 3
+12 3
+6
+4 3
+27 3
+21 3
+10 3
+11 3
+12 3
+6
+18 3
+28 3
+13 3
+10 3
+11 3
+12 3
+6
+15 3
+29 3
+17 3
+10 3
+11 3
+12 3
+6
+28 3
+13 3
+23 3
+10 3
+11 3
+12 3
+6
+21 3
+30 3
+14 3
+10 3
+11 3
+12 3
+6
+16 3
+31 3
+20 3
+10 3
+11 3
+12 3
+6
+30 3
+24 3
+14 3
+10 3
+11 3
+12 3
+6
+35 3
+19 3
+25 3
+10 3
+11 3
+12 3
+6
+37 3
+25 3
+22 3
+10 3
+11 3
+12 3
+6
+39 3
+23 3
+24 3
+10 3
+11 3
+12 3
+7
+5 3
+15 3
+32 3
+29 3
+10 4
+11 4
+12 4
+7
+6 3
+33 3
+16 3
+31 3
+10 4
+11 4
+12 4
+7
+29 3
+17 3
+35 3
+19 3
+10 4
+11 4
+12 4
+7
+26 3
+18 3
+36 3
+28 3
+10 4
+11 4
+12 4
+7
+31 3
+37 3
+20 3
+22 3
+10 4
+11 4
+12 4
+7
+27 3
+38 3
+21 3
+30 3
+10 4
+11 4
+12 4
+7
+7 3
+26 3
+34 3
+36 3
+10 4
+11 4
+12 4
+7
+8 3
+34 3
+27 3
+38 3
+10 4
+11 4
+12 4
+7
+9 3
+32 3
+33 3
+40 3
+10 4
+11 4
+12 4
+7
+36 3
+28 3
+39 3
+23 3
+10 4
+11 4
+12 4
+7
+32 3
+29 3
+40 3
+35 3
+10 4
+11 4
+12 4
+7
+38 3
+39 3
+30 3
+24 3
+10 4
+11 4
+12 4
+7
+33 3
+40 3
+31 3
+37 3
+10 4
+11 4
+12 4
+7
+40 3
+35 3
+37 3
+25 3
+10 4
+11 4
+12 4
+7
+34 3
+36 3
+38 3
+39 3
+10 4
+11 4
+12 4
+end_CG

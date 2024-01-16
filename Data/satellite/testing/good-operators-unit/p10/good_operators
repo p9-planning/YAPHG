@@ -1,0 +1,20 @@
+calibrate sat3 ins2 dir5
+calibrate sat5 ins7 dir1
+switch_on ins2 sat3
+switch_on ins7 sat5
+take_image sat3 dir1 ins2 mod1
+take_image sat3 dir4 ins2 mod1
+take_image sat3 dir5 ins2 mod1
+take_image sat5 dir1 ins7 mod1
+take_image sat5 dir4 ins7 mod1
+take_image sat5 dir5 ins7 mod1
+turn_to sat3 dir1 dir4
+turn_to sat3 dir1 dir5
+turn_to sat3 dir4 dir1
+turn_to sat3 dir4 dir5
+turn_to sat3 dir5 dir4
+turn_to sat5 dir1 dir3
+turn_to sat5 dir4 dir1
+turn_to sat5 dir4 dir5
+turn_to sat5 dir5 dir1
+turn_to sat5 dir5 dir4

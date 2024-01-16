@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00053/data/good-operators-unit-exp/runs-00001-00100/00020/../../goodops-parser.py", line 29, in <module>
+    main()
+  File "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00053/data/good-operators-unit-exp/runs-00001-00100/00020/../../goodops-parser.py", line 26, in main
+    parser.parse()
+  File "/usr/local/lib/python3.10/dist-packages/lab/parser.py", line 213, in parse
+    with open(function.filename) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'good_operators'

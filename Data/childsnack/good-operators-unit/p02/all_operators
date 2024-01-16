@@ -1,0 +1,8 @@
+make_sandwich(sandw1, bread1, content1)
+make_sandwich_no_gluten(sandw1, bread1, content1)
+move_tray(tray1, kitchen, kitchen)
+move_tray(tray1, kitchen, table1)
+put_on_tray(sandw1, tray1)
+move_tray(tray1, table1, kitchen)
+move_tray(tray1, table1, table1)
+serve_sandwich_no_gluten(sandw1, child1, tray1, table1)

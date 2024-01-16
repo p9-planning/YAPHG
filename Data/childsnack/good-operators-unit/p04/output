@@ -1,0 +1,1048 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+11
+begin_variable
+var0
+-1
+3
+Atom at(tray1, kitchen)
+Atom at(tray1, table1)
+Atom at(tray1, table2)
+end_variable
+begin_variable
+var1
+-1
+3
+Atom at(tray2, kitchen)
+Atom at(tray2, table1)
+Atom at(tray2, table2)
+end_variable
+begin_variable
+var9
+-1
+2
+Atom no_gluten_sandwich(sandw2)
+NegatedAtom no_gluten_sandwich(sandw2)
+end_variable
+begin_variable
+var8
+-1
+2
+Atom no_gluten_sandwich(sandw1)
+NegatedAtom no_gluten_sandwich(sandw1)
+end_variable
+begin_variable
+var4
+-1
+2
+Atom at_kitchen_content(content1)
+NegatedAtom at_kitchen_content(content1)
+end_variable
+begin_variable
+var3
+-1
+2
+Atom at_kitchen_bread(bread2)
+NegatedAtom at_kitchen_bread(bread2)
+end_variable
+begin_variable
+var6
+-1
+5
+Atom at_kitchen_sandwich(sandw1)
+Atom notexist(sandw1)
+Atom ontray(sandw1, tray1)
+Atom ontray(sandw1, tray2)
+<none of those>
+end_variable
+begin_variable
+var7
+-1
+5
+Atom at_kitchen_sandwich(sandw2)
+Atom notexist(sandw2)
+Atom ontray(sandw2, tray1)
+Atom ontray(sandw2, tray2)
+<none of those>
+end_variable
+begin_variable
+var2
+-1
+2
+Atom at_kitchen_bread(bread1)
+NegatedAtom at_kitchen_bread(bread1)
+end_variable
+begin_variable
+var5
+-1
+2
+Atom at_kitchen_content(content2)
+NegatedAtom at_kitchen_content(content2)
+end_variable
+begin_variable
+var10
+-1
+2
+Atom served(child1)
+NegatedAtom served(child1)
+end_variable
+20
+begin_mutex_group
+mutex
+fw
+2
+6 1
+3 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+7 1
+2 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+2 0
+3 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+2 0
+6 4
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+2 0
+8 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+2 0
+9 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+2 1
+7 4
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+3 0
+7 4
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+3 0
+8 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+3 0
+9 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+3 1
+6 4
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+6 4
+7 4
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+6 4
+8 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+6 4
+9 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+6 4
+10 1
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+7 4
+8 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+7 4
+9 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+7 4
+10 1
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+8 0
+10 0
+end_mutex_group
+begin_mutex_group
+mutex
+fw
+2
+9 0
+10 0
+end_mutex_group
+begin_state
+0
+0
+1
+1
+0
+0
+1
+1
+0
+0
+1
+end_state
+begin_goal
+1
+10 0
+end_goal
+30
+begin_operator
+make_sandwich sandw1 bread1 content1
+0
+3
+0 8 0 1
+0 4 0 1
+0 6 1 0
+1
+end_operator
+begin_operator
+make_sandwich sandw1 bread1 content2
+0
+3
+0 8 0 1
+0 9 0 1
+0 6 1 0
+1
+end_operator
+begin_operator
+make_sandwich sandw1 bread2 content1
+0
+3
+0 5 0 1
+0 4 0 1
+0 6 1 0
+1
+end_operator
+begin_operator
+make_sandwich sandw1 bread2 content2
+0
+3
+0 5 0 1
+0 9 0 1
+0 6 1 0
+1
+end_operator
+begin_operator
+make_sandwich sandw2 bread1 content1
+0
+3
+0 8 0 1
+0 4 0 1
+0 7 1 0
+1
+end_operator
+begin_operator
+make_sandwich sandw2 bread1 content2
+0
+3
+0 8 0 1
+0 9 0 1
+0 7 1 0
+1
+end_operator
+begin_operator
+make_sandwich sandw2 bread2 content1
+0
+3
+0 5 0 1
+0 4 0 1
+0 7 1 0
+1
+end_operator
+begin_operator
+make_sandwich sandw2 bread2 content2
+0
+3
+0 5 0 1
+0 9 0 1
+0 7 1 0
+1
+end_operator
+begin_operator
+make_sandwich_no_gluten sandw1 bread1 content2
+0
+4
+0 8 0 1
+0 9 0 1
+0 6 1 0
+0 3 -1 0
+1
+end_operator
+begin_operator
+make_sandwich_no_gluten sandw2 bread1 content2
+0
+4
+0 8 0 1
+0 9 0 1
+0 7 1 0
+0 2 -1 0
+1
+end_operator
+begin_operator
+move_tray tray1 kitchen table1
+0
+1
+0 0 0 1
+1
+end_operator
+begin_operator
+move_tray tray1 kitchen table2
+0
+1
+0 0 0 2
+1
+end_operator
+begin_operator
+move_tray tray1 table1 kitchen
+0
+1
+0 0 1 0
+1
+end_operator
+begin_operator
+move_tray tray1 table1 table2
+0
+1
+0 0 1 2
+1
+end_operator
+begin_operator
+move_tray tray1 table2 kitchen
+0
+1
+0 0 2 0
+1
+end_operator
+begin_operator
+move_tray tray1 table2 table1
+0
+1
+0 0 2 1
+1
+end_operator
+begin_operator
+move_tray tray2 kitchen table1
+0
+1
+0 1 0 1
+1
+end_operator
+begin_operator
+move_tray tray2 kitchen table2
+0
+1
+0 1 0 2
+1
+end_operator
+begin_operator
+move_tray tray2 table1 kitchen
+0
+1
+0 1 1 0
+1
+end_operator
+begin_operator
+move_tray tray2 table1 table2
+0
+1
+0 1 1 2
+1
+end_operator
+begin_operator
+move_tray tray2 table2 kitchen
+0
+1
+0 1 2 0
+1
+end_operator
+begin_operator
+move_tray tray2 table2 table1
+0
+1
+0 1 2 1
+1
+end_operator
+begin_operator
+put_on_tray sandw1 tray1
+1
+0 0
+1
+0 6 0 2
+1
+end_operator
+begin_operator
+put_on_tray sandw1 tray2
+1
+1 0
+1
+0 6 0 3
+1
+end_operator
+begin_operator
+put_on_tray sandw2 tray1
+1
+0 0
+1
+0 7 0 2
+1
+end_operator
+begin_operator
+put_on_tray sandw2 tray2
+1
+1 0
+1
+0 7 0 3
+1
+end_operator
+begin_operator
+serve_sandwich_no_gluten sandw1 child1 tray1 table1
+2
+0 1
+3 0
+2
+0 6 2 4
+0 10 -1 0
+1
+end_operator
+begin_operator
+serve_sandwich_no_gluten sandw1 child1 tray2 table1
+2
+1 1
+3 0
+2
+0 6 3 4
+0 10 -1 0
+1
+end_operator
+begin_operator
+serve_sandwich_no_gluten sandw2 child1 tray1 table1
+2
+0 1
+2 0
+2
+0 7 2 4
+0 10 -1 0
+1
+end_operator
+begin_operator
+serve_sandwich_no_gluten sandw2 child1 tray2 table1
+2
+1 1
+2 0
+2
+0 7 3 4
+0 10 -1 0
+1
+end_operator
+0
+begin_SG
+switch 0
+check 0
+switch 1
+check 2
+10
+11
+check 0
+check 0
+check 0
+switch 6
+check 0
+check 1
+22
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 1
+24
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 2
+12
+13
+check 0
+check 0
+check 0
+switch 6
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 1
+26
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+28
+check 0
+check 0
+check 0
+check 0
+check 0
+check 2
+14
+15
+switch 1
+check 0
+switch 8
+check 2
+16
+17
+check 0
+check 0
+switch 6
+check 0
+check 1
+23
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 1
+25
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 2
+18
+19
+check 0
+check 0
+switch 6
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 1
+27
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+29
+check 0
+check 0
+check 0
+check 0
+check 2
+20
+21
+switch 8
+check 0
+switch 4
+check 0
+switch 6
+check 0
+check 0
+check 1
+0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 1
+4
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 9
+check 0
+switch 6
+check 0
+check 0
+check 2
+1
+8
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 2
+5
+9
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+switch 4
+check 0
+switch 6
+check 0
+check 0
+check 1
+2
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 1
+6
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 9
+check 0
+switch 6
+check 0
+check 0
+check 1
+3
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 1
+7
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+end_SG
+begin_DTG
+2
+1
+10
+0
+2
+11
+0
+2
+0
+12
+0
+2
+13
+0
+2
+0
+14
+0
+1
+15
+0
+end_DTG
+begin_DTG
+2
+1
+16
+0
+2
+17
+0
+2
+0
+18
+0
+2
+19
+0
+2
+0
+20
+0
+1
+21
+0
+end_DTG
+begin_DTG
+0
+1
+0
+9
+3
+8 0
+9 0
+7 1
+end_DTG
+begin_DTG
+0
+1
+0
+8
+3
+8 0
+9 0
+6 1
+end_DTG
+begin_DTG
+4
+1
+0
+2
+8 0
+6 1
+1
+2
+2
+5 0
+6 1
+1
+4
+2
+8 0
+7 1
+1
+6
+2
+5 0
+7 1
+0
+end_DTG
+begin_DTG
+4
+1
+2
+2
+4 0
+6 1
+1
+3
+2
+9 0
+6 1
+1
+6
+2
+4 0
+7 1
+1
+7
+2
+9 0
+7 1
+0
+end_DTG
+begin_DTG
+2
+2
+22
+1
+0 0
+3
+23
+1
+1 0
+4
+0
+0
+2
+8 0
+4 0
+0
+1
+2
+8 0
+9 0
+0
+2
+2
+5 0
+4 0
+0
+3
+2
+5 0
+9 0
+1
+4
+26
+2
+0 1
+3 0
+1
+4
+27
+2
+1 1
+3 0
+0
+end_DTG
+begin_DTG
+2
+2
+24
+1
+0 0
+3
+25
+1
+1 0
+4
+0
+4
+2
+8 0
+4 0
+0
+5
+2
+8 0
+9 0
+0
+6
+2
+5 0
+4 0
+0
+7
+2
+5 0
+9 0
+1
+4
+28
+2
+0 1
+2 0
+1
+4
+29
+2
+1 1
+2 0
+0
+end_DTG
+begin_DTG
+4
+1
+0
+2
+4 0
+6 1
+1
+1
+2
+9 0
+6 1
+1
+4
+2
+4 0
+7 1
+1
+5
+2
+9 0
+7 1
+0
+end_DTG
+begin_DTG
+4
+1
+1
+2
+8 0
+6 1
+1
+3
+2
+5 0
+6 1
+1
+5
+2
+8 0
+7 1
+1
+7
+2
+5 0
+7 1
+0
+end_DTG
+begin_DTG
+0
+4
+0
+26
+3
+0 1
+6 2
+3 0
+0
+27
+3
+1 1
+6 3
+3 0
+0
+28
+3
+0 1
+7 2
+2 0
+0
+29
+3
+1 1
+7 3
+2 0
+end_DTG
+begin_CG
+3
+6 2
+7 2
+10 2
+3
+6 2
+7 2
+10 2
+2
+7 2
+10 2
+2
+6 2
+10 2
+4
+8 2
+5 2
+6 2
+7 2
+4
+4 2
+9 2
+6 2
+7 2
+6
+8 3
+5 2
+4 2
+9 3
+3 1
+10 2
+6
+8 3
+5 2
+4 2
+9 3
+2 1
+10 2
+6
+4 2
+9 4
+6 3
+7 3
+3 1
+2 1
+6
+8 4
+5 2
+6 3
+7 3
+3 1
+2 1
+0
+end_CG
